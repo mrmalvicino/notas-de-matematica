@@ -1,0 +1,79 @@
+\documentclass[a5paper,12pt,twoside]{book}
+
+\input{my-book-packages}
+\input{my-book-commands}
+
+% ENTORNOS DE NUMERACIÓN
+\newtheorem{defn}{{Definición}}[chapter]
+\newtheorem{prop}{{Propiedad}}[chapter]
+\newtheorem{example}{{Ejemplo}}[chapter]
+
+% ENTORNOS DE FORMATO
+\newenvironment{formatI}{\vspace{1ex}\par\small\sffamily} % Consignas de ejemplos
+
+
+\begin{document}
+
+\pagestyle{fancy}
+\fancyhf{}
+\chead{\scriptsize \nouppercase\rightmark}
+\cfoot{\scriptsize \thepage}
+\pagenumbering{gobble}
+\renewcommand{\headrulewidth}{0pt}
+
+\frontmatter
+%\includepdf{./images/cover/cover-front}
+
+\begin{center}
+
+    \begin{Huge}
+    \textbf{Notas de matemática para ingeniería de sonido}
+    \end{Huge}
+
+    \vspace{1cm}
+    \textbf{Primera edición v0.1}
+    \vspace{2cm}
+
+    \begin{Large}
+        Malvicino, Maximiliano R.
+    \end{Large}
+
+\end{center}
+
+\clearpage
+\noindent
+\textbf{Prefacio}
+
+Notas de cálculo de varias variables reales, cálculo de una variable compleja y probabilidad.
+La versión digital más reciente de este texto es gratis y puede ser descargada de
+\begin{center}
+    \small
+    \url{https://github.com/mrmalvicino/notas-de-matematica}
+\end{center}
+
+\renewcommand{\spanishappendixname}{Anexo}
+\tableofcontents
+
+\mainmatter
+\pagenumbering{arabic}
+
+
+\chapter{Topología}
+
+
+\section{Norma}
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Norma}
+    \cusTe{La norma es la distancia entre dos puntos $P$ y $Q$.}
+    \begin{equation*}
+        \nnorm{P-Q} = \operatorname{dist} (P,Q)
+    \end{equation*}
+\end{mdframed}
+
+Hay varios tipos de normas, siendo algunas definiciones más precisas que otras con la desventaja de ser computacionalmente menos eficientes.
+
+
+\end{document}
