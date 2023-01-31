@@ -4393,7 +4393,7 @@ Sea $\Vec{T}:A' \subset \setR^2 \longrightarrow A \subset \setR^2$ una transform
 \section{Aplicaciones}
 
 
-\subsection*{Distancia lineal}
+\subsection{Distancia lineal}
 
 Dada la función $f:D \subset \setR \longrightarrow \setR \tq f(x)=1$. El cálculo de la integral sobre un intervalo $\Delta x$ da como resultado el largo del intervalo.
 \begin{equation*}
@@ -4405,7 +4405,7 @@ Dada la función $f:D \subset \setR \longrightarrow \setR \tq f(x)=1$. El cálcu
 \end{center}
 
 
-\subsection*{Área bajo una curva plana}
+\subsection{Área bajo una curva plana}
 
 Dada una función $f:D \subset \setR \longrightarrow \setR \tq f(x)>0$. El cálculo de la integral sobre un intervalo $\Delta x$ da como resultado el área bajo la gráfica de $f$.
 \begin{equation*}
@@ -4417,7 +4417,7 @@ Dada una función $f:D \subset \setR \longrightarrow \setR \tq f(x)>0$. El cálc
 \end{center}
 
 
-\subsection*{Área del recinto $A$}
+\subsection{Área del recinto $A$}
 
 Dada la función $f:D \subset \setR^2 \longrightarrow \setR \tq f(x,y)=1$. El cálculo de la integral sobre un recinto $A$ da como resultado el área del recinto.
 \begin{equation*}
@@ -4429,7 +4429,7 @@ Dada la función $f:D \subset \setR^2 \longrightarrow \setR \tq f(x,y)=1$. El c�
 \end{center}
 
 
-\subsection*{Volumen bajo una superficie}
+\subsection{Volumen bajo una superficie}
 
 Dada una función $f:D \subset \setR^2 \longrightarrow \setR \tq f(x,y)>0$. El cálculo de la integral sobre un recinto $A$ da como resultado el volumen bajo la gráfica de $f$.
 \begin{equation*}
@@ -4441,7 +4441,7 @@ Dada una función $f:D \subset \setR^2 \longrightarrow \setR \tq f(x,y)>0$. El c
 \end{center}
 
 
-\subsection*{Volumen del recinto $V$}
+\subsection{Volumen del recinto $V$}
 
 Dada la función $f:D \subset \setR^3 \longrightarrow \setR \tq f(x,y,z)=1$. El cálculo de la integral sobre un volumen de integración $V$ da como resultado dicho volumen.
 \begin{equation*}
@@ -4449,7 +4449,7 @@ Dada la función $f:D \subset \setR^3 \longrightarrow \setR \tq f(x,y,z)=1$. El 
 \end{equation*}
 
 
-\subsection*{Longitud de una curva plana}
+\subsection{Longitud de una curva plana}
 
 El largo $L$ de un arco de curva plana está dado por:
 \begin{equation*}
@@ -4457,7 +4457,7 @@ El largo $L$ de un arco de curva plana está dado por:
 \end{equation*}
 
 
-\subsection*{Área de una superficie}
+\subsection{Área de una superficie}
 
 El área $A$ de una superficie está dada por:
 \begin{align*}
@@ -4467,7 +4467,7 @@ El área $A$ de una superficie está dada por:
 \end{align*}
 
 
-\subsection*{Masa de un sólido}
+\subsection{Masa de un sólido}
 
 Sea $\rho:\setR^3 \longrightarrow \setR$ una función que determina la densidad en cada punto del espacio ocupado por cierto sólido. La integral de $\rho (x,y,z)$ sobre el volumen $V$ calcula la masa del sólido.
 \begin{equation*}
@@ -7174,10 +7174,761 @@ La transformada de Fourier determina el espectro de frecuencias $\hat{f}(\omega)
 \end{thebibliography}
 
 
+\chapter{Probabilidad y estadística}
+
+
+\section{Topología}
+
+\begin{prop}
+Propiedad Asociativa
+\begin{equation}
+\begin{split}
+A \cup B \cup C &= A \cup (B \cup C) = (A \cup B) \cup C
+\\
+A \cap B \cap C &= A \cap (B \cap C) = (A \cap B) \cap C
+\end{split}
+\end{equation}
+\end{prop}
+
+\begin{prop}
+Propiedad Distributiva
+\begin{equation}
+\begin{split}
+A \cup (B \cap C) = (A \cup B) \cap (A \cup C)
+\\
+A \cap (B \cup C) = (A \cap B) \cup (A \cap C)
+\end{split}
+\end{equation}
+\end{prop}
+
+\begin{equation}
+(A \cap B) \cap (A \cap C) = A \cap B \cap C
+\end{equation}
+
+\begin{prop}
+Leyes de Morgan
+\begin{equation}
+\begin{split}
+(A \cap B)^c &= A^c \cup B^c
+\\
+(A \cup B)^c &= A^c \cap B^c
+\end{split}
+\end{equation}
+\end{prop}
+
+\begin{prop}
+Unión de probabilidades para $n$ conjuntos disjuntos
+\begin{equation}
+P \left( \bigcup_{i=1}^n A_i \right) = \sum_{i=1}^n P(A_i) \iff A_i \cap A_j = \setO
+\end{equation}
+\end{prop}
+
+\begin{prop}
+Unión de probabilidades para dos conjuntos sean o no disjuntos
+\begin{equation}
+P (A \cup B) = P(A) + P(B) - P(A \cap B)
+\end{equation}
+\end{prop}
+
+\begin{prop}
+Unión de probabilidades para tres conjuntos sean o no disjuntos
+\begin{multline}
+P (A \cup B \cup C) = \\
+P(A) + P(B) + P(C) - P(A \cap B) +\\
+- P(B \cap C) - P(A \cap C) + P(A \cap B \cap C)
+\end{multline}
+\end{prop}
+
+\section{Métodos de conteo}
+
+\subsection{Factorial}
+
+Notación que refiere a la multiplicación de todos los números naturales desde 1 hasta $n$:
+
+\begin{equation}
+n!=n(n-1)!=n(n-1)(n-2) \dots 2 \cdot 1
+\end{equation}
+
+\subsection{Combinatorio}
+
+El combinatorio calcula la cantidad de formas de elegir $m$ entre un grupo de $n$ elementos:
+
+\begin{equation}
+\begin{pmatrix}
+n \\
+m
+\end{pmatrix}
+= \dfrac{n!}{(n-m)!m!}
+\text{ con } n>m
+\end{equation}
+
+\subsection{Permutaciones}
+
+Las permutaciones calculan la cantidad de formas de ordenar una secuancia de $n$ elementos. Cada una de las $k$ tareas se puede repetir $n_i$ veces.
+
+\begin{equation}
+\#A=\dfrac{n!}{n_1!n_2! \dots n_k!}
+\end{equation}
+
+\section{Probabilidad condicional}
+
+Probabilidad de que ocurra el evento $A$ con la condición de que $B$ haya ocurrido:
+
+\begin{equation}
+P(A|B) = \dfrac{P(A \cap B)}{P(B)}
+\end{equation}
+
+\subsection{Teorema de multiplicación}
+
+Un individuo va a tener una probabilidad $P(B)$ de pertenecer a una partición $(B)$. Además, hay una probabilidad $P(A|B)$ de que el individuo cumpla cierta característica $(A)$ además de pertenecer a la partición. La probabilidad de que un individuo tenga la característica $A$ y sea parte de la partición $B$ simultaneamente es:
+
+\begin{equation}
+P(A \cap B) = P(A|B) . P(B)
+\end{equation}
+
+\subsection{Teorema de probabilidad total}
+
+Calcula la probabilidad de que un individuo tenga cierta característica $(A)$ sobre el total de las particiones. Esto es la suma de las partes de cada partición $(B_i)$ que cumplen la característica.
+
+\begin{equation}
+P(A) = \sum_{i=1}^n P(A|B_i) . P(B_i)
+\end{equation}
+
+\subsection{Teorema de Bayes}
+
+La probabilidad de que un individuo pertenezca a cierta partición $(B_i)$ dado que tiene cierta característica $(A)$ es $P(B_i|A)$. Usando la definición de Probabilidad Condicional y el Teorema de Multiplicación, se tiene que:
+
+\begin{equation}
+P(B_i|A)=\dfrac{P(A \cap B_i)}{P(A)}=\dfrac{P(A|B_i) . P(B_i)}{P(A)}
+\end{equation}
+
+\section{Independencia}
+
+Si dos eventos $A$ y $B$ son independientes uno del otro, el hecho de que ocurra uno no dice nada sobre la ocurrencia del otro.
+
+\begin{equation}
+P(A|B)=P(A)
+\end{equation}
+
+\begin{prop}
+$\textrm{$A$ y $B$ son independientes} \iff $
+\begin{equation*}
+P(A \cap B)=P(A).P(B)
+\end{equation*}
+\end{prop}
+
+\begin{prop}
+$\textrm{$A_1, A_2 \dots A_n$ son independientes} \Rightarrow $
+\begin{equation*}
+P(A_1 \cap A_2 \dots \cap A_n)=P(A_1).P(A_2) \dots P(A_n)
+\end{equation*}
+\end{prop}
+
+
+\section{Variables aleatorias discretas}
+
+Sea la variable aleatoria $X$ una función que toma valores del espacio muestral $\Omega$ y entrega una cantidad numerable de valores. Entonces $X$ se dice discreta, ya que no tiene intervalos contínuos en su imagen.
+
+\begin{equation}
+X: \Omega \longrightarrow \setR / X(\omega) = x
+\end{equation}
+
+$$ \text{ donde } Ran(X)=Im(X) \subseteq \setN_0 $$
+
+\section{Función de probabilidad puntual}
+
+La función de probabilidad puntual calcula qué probabilidad hay de que una variable aleatoria $(X)$ tome un valor igual a $k$:
+
+\begin{equation}
+p_X: \setR \longrightarrow \setR / p_X(x) = P(X=k)
+\end{equation}
+
+\section{Función de distribución acumulada}
+
+La función de distribución acumulada es una función partida que calcula qué probabilidad hay de que una variable aleatoria $(X)$ tome un valor menor o igual a $k$:
+
+\begin{equation}
+F_X: \setR \longrightarrow \setR / F_X(x) = P(X \leq k)
+\end{equation}
+
+\section{Media, varianza y desvío}
+
+\subsection{Esperanza o media}
+
+La esperanza es un promedio entre los valores de $Ran(X)$ pesado por su probabilidad:
+
+\begin{equation}
+E(X)=\sum_{i=1}^n x_i . p_X(x_i)
+\end{equation}
+
+\subsection{Varianza}
+Calcula qué tan cerca está el valor de la imagen a su esperanza:
+
+\begin{equation}
+\begin{split}
+V(X) &= \sum_{i=1}^n \big( x_i-E(X) \big)^2 p_X(x_i)
+\\
+&= \sum_{i=1}^n x_i^2 . p_X(x_i) - \big(E(X)\big)^2
+\end{split}
+\end{equation}
+
+\subsection{Desvío estandar}
+
+El desvío estandar es la raíz de la varianza:
+
+\begin{equation}
+\sigma(X)=\sqrt{V(X)}
+\end{equation}
+
+\section{Variable aleatoria binomial}
+
+\begin{itemize}
+\item Se realizan $n$ pruebas para verificar si se da o no cierto evento $(A_i)$ en cada una de las muestras.
+
+\item Los eventos $A_i$ son independientes y pueden resultar o bien en un éxito $(S)$ o bien en fracaso $(F)$.
+
+\item La probabilidad $(\rho)$ de que cualquier $A_i$ resulte en éxito es constante ya que cada una de las $n$ pruebas son con reposición.
+\end{itemize}
+
+Sea la variable aleatoria $X:\Omega \longrightarrow \setR/X(\omega)=x$ la cantidad de éxitos $(S)$ entre las $n$ pruebas. Se tiene que $X(\omega)=Bi(n,\rho)$ y se verifica que:
+
+\begin{equation}
+p_X(x)=
+\begin{pmatrix}
+n\\
+x
+\end{pmatrix}
+\rho^x (1-\rho)^{n-x}
+\end{equation}
+
+Notar que el combinatorio es la cantidad de $x$ éxitos entre $n$ pruebas. El factor del medio es la proabilidad de cada éxito multiplicada $x$ veces por el teorema de multiplicación. El factor de la derecha es la probabilidad de cada fracaso multiplicada por la cantidad de fracasos.
+
+\begin{prop}
+Esperanza y Varianza de $Bi(n,\rho)$
+\begin{equation}
+\begin{split}
+E(X) &= n.\rho
+\\
+V(X) &= n.\rho (1-\rho)
+\end{split}
+\end{equation}
+\end{prop}
+
+\begin{prop}
+Variable Aleatoria Bernoulli
+$$ X(\omega)=Be(\rho)=Bi(1,\rho) \Rightarrow p_X(x)=\rho^x(1-\rho)^{1-x} $$
+\end{prop}
+
+\section{Variable aleatoria geométrica}
+
+\begin{itemize}
+\item Se realiza una cantidad incierta de pruebas para verificar si se da o no cierto evento $(A_i)$ en cada una de las muestras.
+
+\item Los eventos $A_i$ son independientes y pueden resultar o bien en un éxito $(S)$ o bien en fracaso $(F)$.
+
+\item La probabilidad $(\rho)$ de que cualquier $A_i$ resulte en éxito es constante ya que cada una de las $n$ pruebas son con reposición.
+\end{itemize}
+
+Sea la variable aleatoria $X:\Omega \longrightarrow \setR/X(\omega)=x$ la primer prueba que resultó en éxito. Se tiene que $X(\omega)=G(n,\rho)$ y se verifica que:
+
+\begin{equation}
+p_X(x)=
+\rho (1-\rho)^{x-1}
+\end{equation}
+
+\begin{prop}
+Esperanza y Varianza de $G(\rho)$
+\begin{equation}
+\begin{split}
+E(X) &= \dfrac{1}{\rho}
+\\
+V(X) &= \dfrac{1-\rho}{\rho^2}
+\end{split}
+\end{equation}
+\end{prop}
+
+\section{Variable aleatoria hipergeométrica}
+
+\begin{itemize}
+\item Se realizan pruebas de $n$ muestras para verificar si se da o no cierto evento $(A_i)$ en cada una de las pruebas de un lote de $N$ muestras en total.
+
+\item Los eventos $A_i$ son independientes y pueden resultar o bien en un éxito $(S)$ o bien en fracaso $(F)$.
+
+\item Las pruebas son sin reposición.
+\end{itemize}
+
+Sea la variable aleatoria $X:\Omega \longrightarrow \setR/X(\omega)=x$ la cantidad de éxitos $(S)$ entre las $(n)$ muestras. Se tiene que $X(\omega)=H(n,N,S)$ y se verifica que:
+
+\begin{equation}
+p_X(x)=
+\begin{pmatrix}
+S \\ x
+\end{pmatrix}
+\begin{pmatrix}
+N-S \\ n-x
+\end{pmatrix}
+\begin{pmatrix}
+N \\ n
+\end{pmatrix}^{-1}
+\end{equation}
+
+\begin{prop}
+Esperanza y Varianza de $H(n,N,S)$
+\begin{equation}
+\begin{split}
+E(X) &= \dfrac{n.S}{N}
+\\
+V(X) &= \dfrac{\frac{n.S}{N} \left(1- \frac{S}{n} \right) (N-n)}{N-1}
+\end{split}
+\end{equation}
+\end{prop}
+
+\section{Variable aleatoria Poisson}
+
+Sea la variable aleatoria $X:\Omega \longrightarrow \setR/X(\omega)=x$ la cantidad $x \in [0;n]$ de muestras que verifiquen un evento $A$. Se tiene que $X(\omega)=Po(\lambda)$ y se verifica que:
+
+\begin{equation}
+p_X(x)=
+\dfrac{\lambda^x}{e^\lambda x!}
+\end{equation}
+
+\begin{prop}
+Esperanza y Varianda de $Po(\lambda)$
+\begin{equation}
+E(X)=V(X)=\lambda
+\end{equation}
+\end{prop}
+
+
+\section{Variables aleatorias contínuas}
+
+Sea la variable aleatoria $X$ una función que toma valores del espacio muestral $\Omega$ y entrega valores reales. Entonces $X$ se dice contínua, ya que puede tener intervalos contínuos en su imagen.
+
+\begin{equation}
+X: \Omega \longrightarrow \setR / X(\omega) = x
+\end{equation}
+
+$$ \text{ donde } Ran(X)=Im(X) \subseteq \setR $$
+
+\section{Función de densidad}
+
+La función de densidad $f_X(x)$ es una aproximación de la altura $h$ de cada rectángulo cuando el ancho $\Delta x \to 0$ en el histograma de una variable aleatória $x$:
+
+\begin{equation}
+f_X: \setR \longrightarrow \setR / 0<f_X(x) \approx h(x)
+\end{equation}
+
+En el Histograma de un experimento, la altura de cada rectángulo depende de la frecuencia relativa $fr$ que tengan los valores $x$ de la VAC y de qué tantos valores $x \in \Delta x$ contemple dicha frecuencia. Así, se tiene que $h(x)$ está dada por:
+
+$$ h(x) = \dfrac{fr}{\Delta x} $$
+
+Además, el área de cada rectángulo se calcula multiplicando la altura $h(x)$ por el ancho $\Delta x$:
+
+$$ A = h(x) \Delta x $$
+
+Si el ancho $\Delta x \to 0$, dejando constante la altura $h(x)$, se obtiene un diferencial de área:
+
+$$ dA = h(x) dx $$
+
+Pero como $A=fr$, se tiene que $dA$ es la mejor aproximación a la probabilidad de que $x \in \Delta x$ por lo tanto $f(x)$ aproxima a $h(x)$:
+
+\begin{equation}
+dF=f(x) dx
+\end{equation}
+
+\section{Función de distribución}
+
+El área bajo la gráfica de $f_X(x)$ representa la probabilidad de que una variable aleatoria contínua $x$ tome un valor entre $a$ y $b$:
+
+$$ A_i = h(x_i) \Delta x_i = fr $$
+$$ A_n = \sum_{i=1}^n h(x_i) \Delta x_i \approx A $$
+$$ A = \lim_{n \to \infty} \sum_{i=1}^n f(x_i) \Delta x_i $$
+
+\begin{equation}
+A = \int_a^b f(x) dx = F(b)-F(a) = P(x \in [a,b])
+\end{equation}
+
+La Función de Distribución Acumulada $F_X(x)$ es una función partida, contínua y no decreciente:
+
+\begin{equation}
+F_X: \setR \longrightarrow \setR / F_X(x) = \int_{-\infty}^k f(x) dx = P(x \leq k)
+\end{equation}
+
+\begin{prop}
+El área total bajo la curva de la gráfica de $f_X(x)$ es $P(\Omega)=1$:
+\begin{equation}
+\lim_{k \to \infty} P(x \leq k)=1
+\end{equation}
+\end{prop}
+
+\section{Media, varianza y mediana}
+
+\subsection{Esperanza o media}
+
+\begin{equation}
+E(x)=\int_{-\infty}^{+\infty} x f(x) dx
+\end{equation}
+
+\begin{prop}
+Propiedades de la Esperanza
+\end{prop}
+
+$$ E(aX+b)=aE(X)+b $$
+$$ E(X+Y)=E(X)+E(Y) $$
+$$ E\big(g(x)\big)=\int_{-\infty}^{+\infty} g(x) f(x) dx $$
+$$ E(XY)=E(X)-E(Y) \text{ con } X,Y \textrm{ independientes} $$
+
+\subsection{Varianza}
+
+\begin{equation}
+\begin{split}
+V(x) &= \int_{-\infty}^{+\infty} \big(x-E(x)\big)^2 f(x) dx \\
+&= \int_{-\infty}^{+\infty} x^2 f(x) dx -\big(E(x)\big)^2
+\end{split}
+\end{equation}
+
+\begin{prop}
+Propiedades de la Varianza
+\end{prop}
+
+$$ V(aX+b)=a^2 V(X) $$
+$$ V(X+Y)=V(X)+V(Y) \text{ con } X,Y \textrm{ independientes} $$
+
+\subsection{Mediana}
+
+\begin{equation}
+M(X)=\{ x \in Ran(X) / F_X(x)=0.5 \}
+\end{equation}
+
+\section{Distribución uniforme}
+
+Sea $X$ una Variable Aleatoria Contínua con Distribución Uniforme:
+
+\begin{equation}
+X=U(a,b)
+\end{equation}
+
+Se tiene que la función de densidad $f_X(x)$ va a estar dada por:
+
+\begin{equation}
+f_X(x)= \left\{
+\begin{array}{rcl}
+&\dfrac{1}{b-a}& \quad si \quad a \leq x < b
+\\
+\\
+&0& \quad si \quad x \notin [a,b)
+\end{array}
+\right.
+\end{equation}
+
+Y al integrar la rama $a \leq x < b$:
+
+$$ \int_a^k f(x)dx = \left( \dfrac{x}{b-a} \Big|_a^k \right) $$
+
+Se tiene que la función de distribución $F_X(x)$ es:
+
+\begin{equation}
+F_X(x)= \left\{
+\begin{array}{rcl}
+&\dfrac{x-a}{b-a}& \quad si \quad a \leq x < b
+\\
+\\
+&0& \quad si \quad x \notin [a,b)
+\end{array}
+\right.
+\end{equation}
+
+\section{Distribución exponencial}
+
+Sea $X$ una Variable Aleatoria Contínua con Distribución Exponencial:
+
+\begin{equation}
+X=exp(\lambda)
+\end{equation}
+
+Se tiene que la función de densidad $f_X(x)$ va a estar dada por:
+
+\begin{equation}
+f_X(x)= \left\{
+\begin{array}{rcl}
+&\lambda e^{-\lambda x}& \quad si \quad 0 \leq x
+\\
+\\
+&0& \quad si \quad x < 0
+\end{array}
+\right.
+\end{equation}
+
+Y al integrar la rama $a \leq x < b$:
+
+$$ \int_0^k f(x)dx = -\left( e^{-\lambda x} \Big|_0^k \right) $$
+
+Se tiene que la función de distribución $F_X(x)$ es:
+
+\begin{equation}
+F_X(x)= \left\{
+\begin{array}{rcl}
+&1-e^{-\lambda x}& \quad si \quad 0 \leq x
+\\
+\\
+&0& \quad si \quad x < 0
+\end{array}
+\right.
+\end{equation}
+
+\section{Distribución normal}
+
+Sea $X$ una Variable Aleatoria Contínua con Distribución Normal:
+
+\begin{equation}
+X=N(\mu,\sigma^2)
+\end{equation}
+
+Se tiene que la función de densidad $f_X(x)$ va a estar dada por:
+
+\begin{equation}
+f_X(x)=\dfrac{e^{\tfrac{(x-\mu)^2}{2 \sigma^2}}}{\sqrt{2 \pi} \sigma}
+\end{equation}
+
+Con lo cual no es posible obtener una fórmula para la distribución mediante el cálculo de la densidad.
+
+\begin{prop}
+Estandarización
+\begin{equation}
+X=N(\mu,\sigma^2) \iff N(0,1)=\dfrac{X-\mu}{\sigma}
+\end{equation}
+\end{prop}
+
+\begin{prop} Multiplicación por un escalar
+$$ a N(\mu,\sigma^2) = N(a \mu, a^2 \sigma^2) \text{ con } a \in \setR $$
+\end{prop}
+
+\section{Teorema central del límite}
+
+\begin{prop}
+La suma de variables aleatorias normales $X_i=N(\mu_i,\sigma_i^2)$ independientes es también una variable normal, y está dada por:
+\end{prop}
+
+$$ \sum_i^n X_i = N(\mu,\sigma^2)$$
+
+$$ \text{ donde } \mu = \sum_i^n \mu_i \quad \sigma^2 = \sum_i^n \sigma_i^2 $$
+
+\begin{prop}
+Dos o más variables se llaman identicamente distribuidas (IID) si tienen igual distribución:
+\end{prop}
+
+$$ \{X_1;X_2 \dots X_n \} \textrm{ son IID } \iff F_{X_i}(x)=F_{X_j}(x) $$
+
+\begin{align*}
+\text{ donde } & \\
+& E(X_i) \textrm{ es igual para toda } X_i \\
+& V(X_i) \textrm{ es igual para toda } X_i \\
+& p_{X_i}(x) \textrm{ es igual para toda VAD } X_i \\
+& f_{X_i}(x) \textrm{ es igual para toda VAC } X_i
+\end{align*}
+
+Una muestra aleatoria es un conjunto de variables aleatorias IID independientes..
+
+\begin{prop}
+Sean $X_i$ variables aleatorias independientes IID pero no necesariamente normales, por el Teorema Central del Límite, se tiene que:
+\end{prop}
+
+$$ \sum_i^n X_i \approx N(n \mu,n \sigma^2) $$
+
+O bien:
+
+$$ \bar{X}=\dfrac{\sum_i^n X_i}{n} \approx N \big( \mu, \tfrac{\sigma^2}{n} \big) $$
+
+$$ \text{ donde } \mu = E(\mu_i) \quad \sigma^2 = V(\sigma_i^2) $$
+
+
+\section{Estimación puntual}
+
+Sean $X_1,X_2 \dots X_n$ muestras aleatorias con esperanza $\mu$ y varianza $\sigma^2$. Si $n>30$, es posible estimar los momentos $\hat{\mu}$ y $\hat{\sigma}^2$ que aproximan a la esperanza y la varianza, respectivamente:
+
+\begin{equation}
+E(X_i) = \mu \approx \bar{X} = \dfrac{\sum_{i=1}^n X_i}{n}=\hat{\mu}
+\end{equation}
+
+\begin{equation}
+V(X_i) = \sigma^2 \approx \dfrac{\sum_{i=1}^n (X_i-\bar{X})^2}{n-1}=\hat{\sigma}^2=s^2
+\end{equation}
+
+Cualquier parámetro $\theta$ de una muestra aleatoria ya sea $\mu, \sigma, \lambda, \rho$ se puede estimar como aquel que verifique la definición de esperanza:
+
+\begin{equation}
+E_{\hat{\theta}} (X_i)=\bar{X} \Rightarrow \theta \approx \hat{\theta}
+\end{equation}
+
+Al estimar un parámetro, se comete un error, ya que $n$ es finito. El error cuadrático medio (ecm) está definido como:
+
+$$ ecm = E\big( (\hat{\theta}-\theta)^2 \big) = \big( \underbrace{E(\hat{\theta})-\theta}_{sesgo} \big)^2+V(\hat{\theta}) $$
+
+\begin{prop}
+Estimador es insesgado si $E(\hat{\theta})=\theta$
+\end{prop}
+
+\section{Intervalos de confianza}
+
+Además de estimar un parámetro $\theta$ de manera puntual, se puede determinar un intervalo de confianza dado por los valores que probablemente tome el parámetro estimado:
+
+$$ I=[a;b] \text{ con } P(a<\theta<b)=1-\alpha \quad \alpha \in [0,01 ; 0,5] $$
+
+Como el intervalo $I$ está centrado en $\hat{\theta}$, el error máximo $\varepsilon$ cometido es:
+
+$$ \varepsilon = \dfrac{b-a}{2} $$
+
+\subsection{Intervalo para $\mu$ dado $\sigma_0^2$}
+
+Dado el promedio $\bar{X}$ de una muestra aleatoria con distribución normal y varianza $\sigma_0^2$, se tiene:
+
+$$ \bar{X} = N(\mu,\tfrac{\sigma_0^2}{n}) \Rightarrow \dfrac{\sqrt{n}}{\sigma_0} (\bar{X}-\mu) = N(0,1) $$
+
+Por lo tanto, el intervalo $I=[a;b]$ verifica:
+
+\begin{equation}
+P \left( \bar{X} - Z_0 \dfrac{\sigma_0}{\sqrt{n}} < \mu < \bar{X} + Z_0 \dfrac{\sigma_0}{\sqrt{n}} \right) = 1 - \alpha
+\end{equation}
+
+$$ \text{ donde } P(Z<Z_0)=1-\dfrac{\alpha}{2} $$
+
+\subsection{Intervalo para $\mu$ dado $s^2$}
+
+Dado el promedio $\bar{X}$ de una muestra aleatoria con distribución normal, se tiene:
+
+$$ \bar{X} = N(\mu,\tfrac{s^2}{n}) \Rightarrow \dfrac{\sqrt{n}}{s} (\bar{X}-\mu) = T_{n-1} $$
+
+Por lo tanto, el intervalo $I=[a;b]$ verifica:
+
+\begin{equation}
+P \left( \bar{X} - T_0 \dfrac{s}{\sqrt{n}} < \mu < \bar{X} + T_0 \dfrac{s}{\sqrt{n}} \right) = 1 - \alpha
+\end{equation}
+
+$$ \text{ donde } P(T_{n-1,\tfrac{\alpha}{2}}<T_0)=1-\dfrac{\alpha}{2} $$
+
+\subsection{Intervalo para $\sigma^2$}
+
+Dada una muestra aleatoria con distribución normal, se tiene:
+
+$$ X_i = N(\mu,\sigma^2) \Rightarrow \dfrac{(n-1)s^2}{\sigma^2} = \chi_{n-1}^2 $$
+
+%ESTO ESTÁ EN EL VIDEO DE VICKY AFONSO, NO SE DEMUESTRA PORQUÉ ES ASÍ.
+
+Por lo tanto, el intervalo $I=[a;b]$ verifica:
+
+\begin{equation}
+P \left( \dfrac{(n-1)s^2}{\chi_{n-1,\tfrac{\alpha}{2}}^2} < \sigma^2 < \dfrac{(n-1)s^2}{\chi_{n-1,1-\tfrac{\alpha}{2}}^2} \right) = 1 - \alpha
+\end{equation}
+
+\subsection{Intervalo de nivel asintótico para $\mu$}
+
+Dado el promedio $\bar{X}$ de una muestra aleatoria de $n>30$ variables, con cualquier distribución, por TCL:
+
+$$ \bar{X} \approx N(\mu,\tfrac{\sigma^2}{n}) \Rightarrow \dfrac{\sqrt{n}}{\sigma} (\bar{X}-\mu) \approx N(0,1) $$
+
+Por lo tanto, el intervalo $I=[a;b]$ verifica:
+
+\begin{equation}
+P \left( \bar{X} - Z_0 \dfrac{s}{\sqrt{n}} < \mu < \bar{X} + Z_0 \dfrac{s}{\sqrt{n}} \right) \approx 1 - \alpha
+\end{equation}
+
+$$ \text{ donde } P(Z<Z_0)=1-\dfrac{\alpha}{2} $$
+
+\subsection{Intervalo de nivel asintótico para $\rho$}
+
+Dado el promedio $\bar{X}$ de una muestra aleatoria de $n>30$ variables de Bernoulli, por ser suma de variables con esperanza $\rho \approx \bar{X}$ y varianza $\rho(1-\rho)$ y por TCL:
+
+$$ \bar{X} \approx N(\rho,\tfrac{\rho(1-\rho)}{n}) \Rightarrow \dfrac{\sqrt{n}(\bar{X}-\rho)}{\sqrt{\bar{X}(1-\bar{X})}} \approx N(0,1) $$
+
+Por lo tanto, el intervalo $I=[a;b]$ verifica:
+
+\begin{equation}
+P \left( \bar{X} - Z_0 \tfrac{\sqrt{\bar{X}(1-\bar{X})}}{\sqrt{n}} < \rho < \bar{X} + Z_0 \tfrac{\sqrt{\bar{X}(1-\bar{X})}}{\sqrt{n}} \right) \approx 1 - \alpha
+\end{equation}
+
+$$ \text{ donde } P(Z<Z_0)=1-\dfrac{\alpha}{2} $$
+
+\section{Test de hipótesis}
+
+Un test de hipótesis sirve para determinar si una modificación en un experimento es significativa o no.
+
+La Región de Rechazo $R$ es la distancia entre la media muestral $\bar{X}$ y la media $\mu_0$ que suponemos que cambió luego de hacer la modificación:
+
+$$ R=\left\{ \bar{X} \Big/ \bar{X} - \mu_0 \enspace \substack{< \\ >} \enspace \alpha \right\} $$
+
+Se definen dos posibles hipótesis. La hipótesis $h_0$ o ``conservadora'' sugiere que no hay evidencia de que la modificación haya sido eficiente. La hipótesis $h_1$ o ``progresista'' sugiere que la modificación implicaría un cambio en la media:
+
+$$ \left\{
+\begin{array}{rcl}
+h_0 &:& \mu = \mu_0 \\
+h_1 &:& \mu \enspace \substack{< \\ >} \enspace \mu_0 \\
+\end{array}
+\right.$$
+
+Podemos definir los posibles errores cometidos al determinar qué hipótesis es correcta. El primer error es suponer que la modificación es significativa cuando no lo es. El segundo es descartarla cuando es significativa. El primero es más grave ya que implica invertir en algo que puede ser peor.
+
+$$ \left\{
+\begin{array}{lll}
+\textrm{Error de Tipo 1: Rechazar $h_0$ siendo verdadera.} \\
+\textrm{Error de Tipo 2: Rechazar $h_1$ siendo falsa.}
+\end{array}
+\right.$$
+
+El test de hipótesis consiste optar por la modificación solo cuando $P(\textrm{Error de Tipo 1})<\alpha$.
+
+\subsection{Test de nivel $\alpha$ para $\mu$ dado $\sigma_0^2$}
+
+Dado el promedio $\bar{X}$ de una muestra aleatoria con distribución normal y varianza $\sigma_0^2$, se tiene:
+
+$$ \bar{X} = N(\mu_0,\tfrac{\sigma_0^2}{n}) \Rightarrow \dfrac{\sqrt{n}}{\sigma_0} (\bar{X}-\mu_0) = N(0,1) $$
+
+Por lo tanto, se va a descartar $h_0$ y optar por la modificación solo si la media muestral verifica la región de rechazo $R$, dada por:
+
+$$ \dfrac{\sqrt{n}}{\sigma_0} (\bar{X}-\mu_0) \enspace \substack{< \\ >} \enspace Z_\alpha $$
+
+\subsection{Test de nivel $\alpha$ para $\mu$ dado $s^2$}
+
+Dado el promedio $\bar{X}$ de una muestra aleatoria con distribución normal, se tiene:
+
+$$ \bar{X} = N(\mu_0,\tfrac{s^2}{n}) \Rightarrow \dfrac{\sqrt{n}}{s} (\bar{X}-\mu_0) = T_{n-1} $$
+
+Por lo tanto, se va a descartar $h_0$ y optar por la modificación solo si la media muestral verifica la región de rechazo $R$, dada por:
+
+$$ \dfrac{\sqrt{n}}{s} (\bar{X}-\mu_0) \enspace \substack{< \\ >} \enspace T_{n-1,\alpha} $$
+
+\subsection{Test de Nivel Asintótico para $\mu$}
+
+Dado el promedio $\bar{X}$ de una muestra aleatoria de $n>30$ variables, con cualquier distribución, por TCL:
+
+$$ \bar{X} \approx N(\mu_0,\tfrac{\sigma^2}{n}) \Rightarrow \dfrac{\sqrt{n}}{\sigma} (\bar{X}-\mu_0) \approx N(0,1) $$
+
+Por lo tanto, se va a descartar $h_0$ y optar por la modificación solo si la media muestral verifica la región de rechazo $R$, dada por:
+
+$$ \dfrac{\sqrt{n}}{s} (\bar{X}-\mu_0) \enspace \substack{< \\ >} \enspace Z_\alpha $$
+
+\subsection{Test de nivel asintótico para $\rho$}
+
+Dado el promedio $\bar{X}$ de una muestra aleatoria de $n>30$ variables de Bernoulli, por ser suma de variables con esperanza $\rho \approx \bar{X}$ y varianza $\rho(1-\rho)$ y por TCL:
+
+$$ \bar{X} \approx N(\rho_0,\tfrac{\rho_0(1-\rho_0)}{n}) \Rightarrow \dfrac{\sqrt{n}(\bar{X}-\rho_0)}{\sqrt{\rho_0(1-\rho_0)}} \approx N(0,1) $$
+
+Por lo tanto, se va a descartar $h_0$ y optar por la modificación solo si la media muestral verifica la región de rechazo $R$, dada por:
+
+$$ \dfrac{\sqrt{n}(\bar{X}-\rho_0)}{\sqrt{\rho_0(1-\rho_0)}} \enspace \substack{< \\ >} \enspace Z_\alpha $$
+
+\subsection{P-valor}
+
+Este es un criterio para determinar si la distribución presenta alguna anomalía. El $p_{val}$ es la probabilidad acumulada de la muestra observada $Z_{obs}$. Según el criterio, se rechaza $h_0$ si $p$ es chico:
+
+\begin{equation}
+p_{val} \enspace \substack{> \\ <} \enspace P(Z_{obs})
+\end{equation}
+
+
 \appendix
 
 
-\chapter{Aplicaciones en Ingeniería}
+\chapter{Aplicaciones en ingeniería}
 
 
 \section{Decibeles}
