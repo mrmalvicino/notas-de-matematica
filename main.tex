@@ -2053,7 +2053,7 @@ La ecuación \ref{eqn:orto} es de suma importancia, ya que da cuenta de la simpl
         \label{defn:proyOrto}
     \end{defn}
     \cusTi{Proyección ortogonal}
-    \cusTe{La proyección de un vector $\Vec{v}$ sobre un subespacio $S\in\setV$ se define como una transformación lineal $\setV \longrightarrow S$ tal que:}
+    \cusTe{La proyección de un vector $\Vec{v}$ sobre un subespacio $S\subset\setV$ se define como una transformación lineal $\setV \longrightarrow S$ tal que:}
     \begin{equation*}
         \proy_S(\Vec{v}) =
         \left\{
@@ -2128,7 +2128,7 @@ De manera que:
 
 Para el producto interno definido como:
 \begin{equation*}
-    \int_{-\pi}^\pi f(x) \, g(x) \, \dif x
+    \intProd{f}{g} = \int_{-\pi}^\pi f(x) \, g(x) \, \dif x
 \end{equation*}
 
 Podemos definir la proyección ortogonal de una función $f$ sobre el subespacio $S_\Nth$ de polinomios trigonométricos. Como se vio en la sección anterior esta proyección sería, de todos los elementos de $S_\Nth$, aquel polinomio que mejor se aproxime a $f$ por estar a la mínima distancia. Según la propiedad \ref{prop:proyOrto2} esta aproximación estaría dada por:
