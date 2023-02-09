@@ -7423,7 +7423,7 @@ La función de distribución acumulada es una función partida que calcula qué 
 \end{mdframed}
 
 
-\section{Esperanza, varianza y desvío}
+\section{Esperanza, varianza, covarianza y desvío}
 
 La esperanza, media, o valor esperado es un promedio entre los valores de $\ran(X)$ pesado por su probabilidad.
 
@@ -7455,6 +7455,17 @@ La varianza calcula qué tan cerca está el valor de la imagen a su esperanza.
     \end{equation*}
 \end{mdframed}
 
+La covarianza es un valor que indica el grado de variación conjunta de dos variables aleatorias respecto a sus medias.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Covarianza}
+    \begin{equation*}
+        \fx[C]{X\,Y} = \fx[E]{\bb{X-\fx[E]{X}} \bb{Y-\fx[E]{Y}}}
+    \end{equation*}
+\end{mdframed}
+
 \begin{mdframed}[style=MyFrame1]
     \begin{defn}
     \end{defn}
@@ -7465,7 +7476,10 @@ La varianza calcula qué tan cerca está el valor de la imagen a su esperanza.
 \end{mdframed}
 
 
-\section{Variable aleatoria binomial}
+\section{VAD famosas}
+
+
+\subsection{Variable aleatoria binomial}
 
 \begin{itemize}
 \item Se realizan $n$ pruebas para verificar si se da o no cierto evento $A_i$ en cada una de las muestras.
@@ -7502,7 +7516,7 @@ La esperanza y la varianza de $\bi(n,\rho)$ están dadas por:
 \end{mdframed}
 
 
-\section{Variable aleatoria geométrica}
+\subsection{Variable aleatoria geométrica}
 
 \begin{itemize}
 \item Se realiza una cantidad incierta de pruebas para verificar si se da o no cierto evento $A_i$ en cada muestra.
@@ -7513,20 +7527,20 @@ La esperanza y la varianza de $\bi(n,\rho)$ están dadas por:
 \end{itemize}
 
 Sea la variable aleatoria $X$ la primer prueba que resultó en éxito.
-Se denota $X=\geo(n,\rho)$ y su probabilidad puntual es:
+Se denota $X=\geo(\rho)$ y su probabilidad puntual es:
 \begin{equation*}
     p_X(x) = \rho \bb{1-\rho}^{x-1}
 \end{equation*}
 
-La esperanza y la varianza de $\geo(n,\rho)$ están dadas por:
+La esperanza y la varianza de $\geo(\rho)$ están dadas por:
 \begin{gather*}
-    E \bb{\geo(n,\rho)} = \frac{1}{\rho}
+    E \bb{\geo(\rho)} = \frac{1}{\rho}
     \\[1ex]
-    V \bb{\geo(n,\rho)} = \frac{1-\rho}{\rho^2}
+    V \bb{\geo(\rho)} = \frac{1-\rho}{\rho^2}
 \end{gather*}
 
 
-\section{Variable aleatoria hipergeométrica}
+\subsection{Variable aleatoria hipergeométrica}
 
 \begin{itemize}
 \item Se realizan pruebas de $n$ muestras para verificar si se da o no cierto evento $A_i$ en cada una de las pruebas de un lote de $N$ muestras en total.
@@ -7550,7 +7564,7 @@ La esperanza y la varianza de $\hip(n,N,S)$ están dadas por:
 \end{gather*}
 
 
-\section{Variable aleatoria Poisson}
+\subsection{Variable aleatoria Poisson}
 
 Sea la variable aleatoria $X$ la cantidad $x \in [0;n]$ de muestras que verifiquen un evento $A$.
 Se denota $X=\po(\lambda)$ y su probabilidad puntual es:
@@ -7691,7 +7705,10 @@ Las siguientes son propiedades de la varianza:
 \end{mdframed}
 
 
-\section{Distribución uniforme}
+\section{VAC famosas}
+
+
+\subsection{Distribución uniforme}
 
 Sea $X$ una VAC con distribución Uniforme:
 \begin{equation*}
@@ -7728,7 +7745,7 @@ Se tiene que la función de distribución $F_X(x)$ es:
 \end{equation*}
 
 
-\section{Distribución exponencial}
+\subsection{Distribución exponencial}
 
 Sea $X$ una VAC con distribución exponencial:
 \begin{equation*}
@@ -7765,7 +7782,7 @@ Se tiene que la función de distribución $F_X(x)$ es:
 \end{equation*}
 
 
-\section{Distribución normal}
+\subsection{Distribución normal}
 
 Sea $X$ una VAC con distribución normal:
 \begin{equation}
