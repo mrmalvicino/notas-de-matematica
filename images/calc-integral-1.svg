@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150mm"
+   height="120mm"
+   viewBox="0 0 150 120"
+   version="1.1"
+   id="svg18885"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="calc-integral-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview18887"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.33540615"
+     inkscape:cx="891.45654"
+     inkscape:cy="615.67149"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs18882">
+    <rect
+       x="-80.49942"
+       y="6.708285"
+       width="180.37833"
+       height="75.281865"
+       id="rect5882" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#1"
+       id="radialGradient1351"
+       cx="106.78751"
+       cy="61.948544"
+       fx="106.78751"
+       fy="61.948544"
+       r="61.335575"
+       gradientTransform="matrix(0.72182234,-0.03862366,0.04258097,0.79577913,-4.6654255,-4.887841)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="1">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0"
+         id="stop1345" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.30000001"
+         offset="1"
+         id="stop1347" />
+    </linearGradient>
+    <rect
+       x="-80.49942"
+       y="6.7082849"
+       width="180.37833"
+       height="75.281868"
+       id="rect5882-8" />
+    <rect
+       x="-80.49942"
+       y="6.7082849"
+       width="180.37833"
+       height="75.281868"
+       id="rect5882-8-8" />
+    <rect
+       x="-80.49942"
+       y="6.7082849"
+       width="180.37833"
+       height="75.281868"
+       id="rect5882-8-8-2" />
+    <rect
+       x="-80.49942"
+       y="6.7082849"
+       width="180.37833"
+       height="75.281868"
+       id="rect5882-8-8-2-9" />
+    <rect
+       x="-80.49942"
+       y="6.7082849"
+       width="180.37833"
+       height="75.281868"
+       id="rect5882-8-3" />
+    <rect
+       x="-80.49942"
+       y="6.7082849"
+       width="180.37833"
+       height="75.281868"
+       id="rect10391" />
+    <rect
+       x="-80.49942"
+       y="6.7082849"
+       width="180.37833"
+       height="75.281868"
+       id="rect10631" />
+    <rect
+       x="-80.49942"
+       y="6.7082849"
+       width="180.37833"
+       height="75.281868"
+       id="rect10937" />
+    <rect
+       x="-80.49942"
+       y="6.7082849"
+       width="180.37833"
+       height="75.281868"
+       id="rect11045" />
+    <rect
+       x="-80.49942"
+       y="6.7082849"
+       width="180.37833"
+       height="75.281868"
+       id="rect5882-8-8-4" />
+    <rect
+       x="-80.49942"
+       y="6.7082849"
+       width="180.37833"
+       height="75.281868"
+       id="rect11288" />
+    <rect
+       x="-80.49942"
+       y="6.7082849"
+       width="180.37833"
+       height="75.281868"
+       id="rect11462" />
+    <rect
+       x="-80.49942"
+       y="6.7082849"
+       width="180.37833"
+       height="75.281868"
+       id="rect11570" />
+    <rect
+       x="-80.49942"
+       y="6.7082849"
+       width="180.37833"
+       height="75.281868"
+       id="rect11678" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 68.024587,17.193545 V 72.562059"
+       id="path835"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 68.024587,72.549888 62.465893,16.73769"
+       id="path837"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 68.024587,72.549888 18.444794,101.16033"
+       id="path841"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path872-0"
+       d="m 68.024587,17.193545 h -1.31852 c 0,0 1.0788,-0.671259 1.31852,-5.130249 0.23972,4.45899 1.318521,5.130249 1.318521,5.130249 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path872-0-3"
+       d="m 130.49048,89.287578 0.34126,-1.2736 c 0,0 0.36917,1.21578 4.61418,2.6014 -4.3691,-0.92252 -5.2967,-0.0542 -5.2967,-0.0542 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path872-0-36"
+       d="m 18.444794,101.16033 0.65926,1.14188 c 0,0 -1.120728,-0.59864 -5.102187,1.42325 3.741739,-2.4371 3.783667,-3.707 3.783667,-3.707 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 23.298065,98.359708 86.243197,115.23971"
+       id="path975"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 78.416067,75.334276 27.330668,104.82844"
+       id="path977"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 123.68032,87.462798 72.594937,116.95696"
+       id="path979"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 59.665531,77.373552 122.61066,94.253558"
+       id="path1012"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 54.574063,89.099458 99.838317,101.22798"
+       id="path1022"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 89.261297,85.363244 52.906385,106.35277"
+       id="path1024"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 79.324367,82.645464 42.969456,103.63499"
+       id="path1026"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 101.72313,88.652138 65.368209,109.64166"
+       id="path1028"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 62.529192,84.506564 107.79345,96.635088"
+       id="path1030"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 44.622812,94.844818 89.887067,106.97334"
+       id="path1032"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 52.132229,81.720704 10.396963,2.78586"
+       id="path1030-9"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 44.177106,86.313594 10.396963,2.785864"
+       id="path1053"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 34.225849,92.058958 10.396963,2.78586"
+       id="path1055"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 87.685677,77.818055 -8.36131,4.827409"
+       id="path1026-1"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 97.622607,80.535835 -8.36131,4.827409"
+       id="path1072"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 110.08443,83.824734 -8.36131,4.827414"
+       id="path1074"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       id="path1076"
+       style="opacity:0.5;fill:url(#radialGradient1351);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.959839"
+       d="M 128.18306,15.828026 C 124.48865,32.677314 109.44843,59.62101 82.954647,67.091961 57.636811,74.231314 45.429917,64.535338 31.527289,57.333581 14.452864,48.488789 3.2714975,39.516876 11.332762,33.603079 c 9.045315,-6.635703 38.05839,4.022591 56.691825,-11.151252 7.32712,-5.966723 21.79637,-2.070784 33.013333,-7.558254 31.35285,-15.338181 31.04218,-16.838967 27.14514,0.934453 z"
+       sodipodi:nodetypes="sssssss"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 70.057177,80.160281 33.702255,101.1498 78.954697,113.28515 115.3096,92.295628 Z"
+       id="path1248"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 33.702255,101.1498 V 38.009092"
+       id="path1251"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 115.3096,34.323515 V 17.059691"
+       id="path1251-6"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 78.954697,113.28515 V 59.469225"
+       id="path1251-6-2"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 70.566817,80.296951 V 28.495535"
+       id="path1251-6-2-4"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 88.739907,27.549083 C 81.164597,39.90902 68.344707,46.598314 52.969063,52.344185"
+       id="path1300"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 101.91253,23.247358 C 94.211037,38.306339 80.508537,49.089615 65.368207,56.501284"
+       id="path1302"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 77.946067,28.769761 c -6.15107,9.88005 -20.759049,14.36178 -34.976605,18.017465"
+       id="path1304"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="opacity:0.6;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4"
+       d="m 115.3096,34.323515 v 57.972113 l -7.51616,4.33946 -13.590033,-3.64144 V 35.021537 l 7.519723,-4.341509 z"
+       id="path1555"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 56.687902,35.358489 c 13.878915,7.229505 25.223505,10.538342 43.150414,8.120649"
+       id="path1306"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 46.457853,37.222895 c 11.48713,9.316 27.498754,15.176757 43.429214,15.972185"
+       id="path1310"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="opacity:0.2;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 94.251177,35.034335 13.542263,3.628637 7.51616,-4.339457"
+       id="path1557"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="opacity:0.2;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 107.79344,96.635088 V 38.662972"
+       id="path1545"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 107.79344,38.66297 V 31.031183"
+       id="path1559"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 65.109556,32.169981 c 16.067551,3.102293 26.550291,5.48123 42.683884,-1.138798"
+       id="path1308"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 33.702255,38.009092 C 44.952942,52.190482 61.767126,56.172124 78.954697,59.469226 101.23605,49.688307 106.31883,32.536574 115.3096,17.059691 102.29583,22.898824 90.783857,30.339885 70.566817,28.495535 62.127821,35.812003 48.645696,37.69741 33.702255,38.009092 Z"
+       id="path1298"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 101.72313,30.680028 V 23.614516"
+       id="path1559-7"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,92.886454,94.266932)"
+       id="text5880"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5882);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-80.5"
+         y="18.873358"
+         id="tspan12954">$R$</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,160.20501,87.558846)"
+       id="text5880-7"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5882-8);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-80.5"
+         y="18.873358"
+         id="tspan12956">$x$</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,99.646567,68.232152)"
+       id="text5880-7-5"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5882-8-3);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-80.5"
+         y="18.873358"
+         id="tspan12958">$x_0$</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,26.875652,102.54689)"
+       id="text5880-7-0"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5882-8-8);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-80.5"
+         y="18.873358"
+         id="tspan12960">$y$</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,71.642583,69.963128)"
+       id="text5880-7-0-9"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5882-8-8-4);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-80.5"
+         y="18.873358"
+         id="tspan12962">$y_0$</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,88.208321,3.1085481)"
+       id="text5880-7-0-5"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5882-8-8-2);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-80.5"
+         y="18.873358"
+         id="tspan12964">$z$</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,39.022664,35.692311)"
+       id="text5880-7-0-5-1"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5882-8-8-2-9);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-80.5"
+         y="18.873358"
+         id="tspan12966">$S$</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,110.2299,70.598686)"
+       id="text10389"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect10391);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-80.5"
+         y="18.873358"
+         id="tspan12968">$x_1$</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,120.81324,73.918241)"
+       id="text10629"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect10631);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-80.5"
+         y="18.873358"
+         id="tspan12970">$x_2$</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,131.39658,77.270831)"
+       id="text10935"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect10937);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-80.5"
+         y="18.873358"
+         id="tspan12972">$x_3$</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,143.55761,80.426209)"
+       id="text11043"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11045);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-80.5"
+         y="18.873358"
+         id="tspan12974">$x_4$</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,63.58996,75.254795)"
+       id="text11286"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11288);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-80.5"
+         y="18.873358"
+         id="tspan12976">$y_1$</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,57.115026,80.546462)"
+       id="text11460"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11462);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-80.5"
+         y="18.873358"
+         id="tspan12978">$y_2$</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,47.123325,85.838129)"
+       id="text11568"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11570);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-80.5"
+         y="18.873358"
+         id="tspan12980">$y_3$</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,37.131625,91.129796)"
+       id="text11676"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11678);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-80.5"
+         y="18.873358"
+         id="tspan12982">$y_4$</tspan></text>
+  </g>
+</svg>

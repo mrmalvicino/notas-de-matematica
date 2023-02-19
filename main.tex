@@ -155,7 +155,8 @@ El entorno o bola de un punto es un conjunto que contiene los puntos más próxi
 A continuación se grafican un disco cerrado, uno abierto y uno reducido respectivamente.
 
 \begin{center}
-    %\includegraphics[width=9.5cm]{bolas.png}
+    \def\svgwidth{0.8\linewidth}
+    \input{./images/topo-bola.pdf_tex}
 \end{center}
 
 
@@ -448,7 +449,8 @@ A continuación se grafican un disco cerrado, uno abierto y uno reducido respect
 \end{mdframed}
 
 \begin{center}
-    %\includegraphics[width=9.8cm]{SL.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/alg-sistemas.pdf_tex}
 \end{center}
 
 
@@ -618,13 +620,15 @@ Observar que la cantidad ($k$) de elementos de un conjunto generador de $S$ pued
     Plano con $\operatorname{dim}(S)=2, \nth=3, \kth=4$:
 
     \begin{center}
-        %\includegraphics[width=5.5cm]{gen.png}
+        \def\svgwidth{\linewidth}
+        \input{./images/alg-generadores.pdf_tex}
     \end{center}
 
     Plano con $\operatorname{dim}(S)=2, \nth=3, \kth=2$:
 
     \begin{center}
-        %\includegraphics[width=6cm]{base.png}
+        \def\svgwidth{\linewidth}
+        \input{./images/alg-base.pdf_tex}
     \end{center}
 \end{mdframed}
 
@@ -690,7 +694,8 @@ Observar que $\setV$ puede ser un espacio abstracto, por ejemplo de polinomios o
     Dado el espacio vectorial $\setV=\setR^2$ y dos bases $E=\braces{\eVer_1,\eVer_2}$ y $B=\braces{\Vec{v}_1,\Vec{v}_2}=\braces{(1,1),(1,-1)}$ se quieren calcular, para el vector $\Vec{w}$ ubicado en el punto $(x,y)=(-1,1)$, las coordenadas en cada base.
     
     \begin{center}
-        %\includegraphics[width=4.7cm]{CBE.png}
+        \def\svgwidth{\linewidth}
+        \input{./images/alg-base-cambio.pdf_tex}
     \end{center}
     
     Las coordenadas del vector $\Vec{w}$ en la base canónica son:
@@ -883,7 +888,8 @@ Reemplazando la primera en la segunda se tiene:
 Al ser una multiplicación matricial, el orden de los factores sí altera el producto. Para $C_{BB'}$ la base de entrada es $B$ y la base de salida es $B'$. Al desarrollar el producto, a la derecha de la igualdad, la matriz que primero actúa es $C_{BE}$ siendo $B$ su entrada y $E$ su salida. Y luego actúa $C_{EB'}$ siendo $E$ su entrada (que es la salida de $C_{BE}$) y $B'$ su salida.
 
 \begin{center}
-    %\includegraphics[width=4.5cm]{rulo.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/alg-rulo.pdf_tex}
 \end{center}
 
 Esto no solo es así en las matrices de cambio de base, sino en cualquier producto matricial donde haya bases involucradas. La primer letra del subíndice de una matriz es la base de entrada de esa matriz, y la segunda la base de salida. Y ya sea que se multipliquen dos o más matrices, se cumple que el orden está dado por \emph{el rulo} dibujado.
@@ -1814,7 +1820,8 @@ Surgen luego las siguientes definiciones:
 La proyección de un vector $\Vec{v}$ sobre un director $\Vec{r}$ es un tercer vector proporcional a $\Vec{r}$. En $\setR^2$ y $\setR^3$ la proporción surge de \emph{proyectar}, desde la punta de $\Vec{v}$, una recta que sea ortogonal a $\Vec{r}$. A contnuación se tiene un esquema en $\setR^2$.
 
 \begin{center}
-    %\includegraphics[width=3.5cm]{orto1.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/alg-orto-1.pdf_tex}
 \end{center}
 
 Se plantea entonces la condición de proporción mencionada y se pretende deducir cuál es el factor de proporcionalidad $\lambda$.
@@ -1880,7 +1887,8 @@ El primer elemento de $B'$ lo podemos definir de manera arbitraria a partir de c
 El segundo elemento de $B'$ se define de manera análoga a como se dedujo la proyección ortogonal anteriormente (Prop. \ref{prop:proyOrto}). A continuación se tiene un esquema equivalente, ya que el proyectado y el director son elementos de la base $B$ por lo que cambia la notación.
 
 \begin{center}
-    %\includegraphics[width=3.2cm]{orto2.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/alg-orto-2.pdf_tex}
 \end{center}
 
 Vemos que podemos construir un vector ortogonal a $\Vec{v}_1$ restando al proyectado la proyección ortogonal. Este será el segundo elemento de la base ortogonal $B'$.
@@ -1893,7 +1901,8 @@ Vemos que podemos construir un vector ortogonal a $\Vec{v}_1$ restando al proyec
 Si la base original $B$ fuese de 3 o más elementos, el tercer elemento de la nueva base ortogonal $B'$ se obtendría con el mismo razonamiento. La siguiente es una representación simplista de los vectores de $B$ y sus proyecciones, a partir de las que se obtienen los vectores de $B'$.
 
 \begin{center}
-    %\includegraphics[width=4.2cm]{orto3.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/alg-orto-3.pdf_tex}
 \end{center}
 
 Quedando el tercer elemento $\Vec{w}_3$ expresado por:
@@ -1906,7 +1915,8 @@ Quedando el tercer elemento $\Vec{w}_3$ expresado por:
 A primera vista uno puede suponer que el término $-\proy_{\Vec{w}_2}(\Vec{v}_3)$ está de más, pero no es así. En la representación anterior la proyección de $\Vec{v}_3$ sobre $\Vec{w}_2$ es nula, y por eso este término no afecta la ecuación. Un esquema más representativo sería el siguiente, donde $\Vec{v}_3$ no está contenido en el plano gris y aún así forma parte de una base de $\setR^3$ junto con $\Vec{v}_1$ y $\Vec{v}_2$.
 
 \begin{center}
-    %\includegraphics[width=5.4cm]{orto4.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/alg-orto-4.pdf_tex}
 \end{center}
 
 De esta forma podemos ver que la resta $\Vec{v}_3-\proy_{\Vec{v}_1}(\Vec{v}_3)$ sobresale del plano gris. Por este motivo, es necesario restar la componente vertical, que es $\proy_{\Vec{w}_2}(\Vec{v}_3)$.
@@ -2069,7 +2079,8 @@ La ecuación \ref{eqn:orto} es de suma importancia, ya que da cuenta de la simpl
 A continuación se tiene un esquema para $\setV=\setR^3$ donde $S$ es un plano y $S^\perp$ una recta.
 
 \begin{center}
-    %\includegraphics[width=7cm]{ortoComp.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/alg-proyeccion.pdf_tex}
 \end{center}
 
 En la figura anterior se observa que $\Vec{s}$ es la proyección ortogonal de $\Vec{v}$ sobre el subespacio $S$.
@@ -3435,7 +3446,10 @@ Siendo los candidatos a extremos o puntos de ensilladura de $f$ los mismos punto
 \end{gather*}
 
 
-\chapter{Curvas}
+\chapter{Geometría diferencial}
+
+
+\section{Curvas}
 
 
 Una curva puede ser entendida como un camino que a priori es recto pero instante a instante va cambiando de dirección, doblándose conforme es recorrido.
@@ -3447,7 +3461,7 @@ Si tuviesemos un hilo tirado en el piso o un alambre doblado colgando, ambos de 
 Una curva puede ser definida mediante una ecuación paramétrica o una ecuación implícita. Geométricamente, ambas formas de representación describen lo mismo. Pero la ecuación paramétrica indica cómo la curva es ``recorrida'', mientras que la ecuación implícita indica cuáles son los puntos que la delimitan.
 
 
-\section{Ecuación paramétrica}
+\subsection{Ecuación paramétrica}
 
 La ecuación paramétrica de una curva es una función vectorial que toma valores reales y entrega vectores de 2 o 3 coordenadas. A medida que el parámetro $t$ aumenta, la imagen de la función va trazando los puntos del recorrido.
 
@@ -3472,7 +3486,7 @@ La ecuación paramétrica de una curva es una función vectorial que toma valore
 Puede haber más de una parametrización correcta para una misma curva.
 
 
-\section{Ecuación implícita}
+\subsection{Ecuación implícita}
 
 Las ecuaciones implícitas de una curva delimitan los puntos que la componen. Indican la geometría que tiene el conjunto ($C$) de puntos que conforman la curva en un plano o en el espacio.
 
@@ -3511,7 +3525,7 @@ Una curva en el espacio puede resultar de la intersección de superficies. En es
     \right.
 \end{gather*}
 
-\section{Parametrización de la implícita}
+\subsection{Parametrización de la implícita}
 
 La imagen de la ecuación paramétrica de una curva son los puntos de dicho plano o espacio que están delimitados por la ecuación implícita.
 
@@ -3536,7 +3550,7 @@ Primero se proyecta la curva sobre alguno de los planos coordenados, de manera t
 
 % Agregar vectores tangente y normal. c'(t) es tangente, pero ¿c''(t) es normal?
 
-\section{Clasificación de curvas}
+\subsection{Clasificación de curvas}
 
 Una curva cerrada es aquella que no tiene principio ni fin.
 
@@ -3709,7 +3723,7 @@ Las secciones cónicas son curvas planas que resultan de la intersección de un 
 \end{mdframed}
 
 
-\chapter{Superficies}
+\section{Superficies}
 
 Una superficie puede ser entendida como un plano que se ``arruga'' a medida que sus dos vectores directores lo recorren. Formalmente, decimos que una superficie es una inmersión que transforma el plano $\setR^2$ y lo aplica en el espacio $\setR^3$.
 
@@ -3718,7 +3732,7 @@ Las superficies generalmente están dadas en 3 dimensiones, aunque un plano de 2
 Si tuviesemos una hoja de papel arrugada, una sábana suspendida en el aire, un maple de huevos, o una carpa de camping, todos de grosor nulo, podriamos referirnos al espacio que ocupan como superficies dadas en tres dimensiones.
 
 
-\section{Ecuación paramétrica}
+\subsection{Ecuación paramétrica}
 
 Una diferencia con las curvas, es que las superficies requieren de dos parametros para ser recorridas completamente.
 
@@ -3734,7 +3748,7 @@ Una diferencia con las curvas, es que las superficies requieren de dos parametro
 \end{mdframed}
 
 
-\section{Ecuación Implícita}
+\subsection{Ecuación Implícita}
 
 Las ecuaciónes implícitas de una superficie delimitan los puntos que la componen. Indican la geometría que tiene el conjunto ($S$) de puntos que conforman la superficie.
 
@@ -3759,7 +3773,7 @@ Una superficie puede estar dada de manera implícita como la gráfica de un camp
 Una superficie puede resultar de la intersección entre solidos, superficies, curvas y cualquier conjunto de puntos en general. En este caso, se cumple el sistema de ecuaciones e inecuaciones que expresan los sólidos, superficies o conjuntos que se intersecten.
 
 
-\section{Parametrización de la implícita}
+\subsection{Parametrización de la implícita}
 
 La imagen de la ecuación paramétrica de una superficie son los puntos del espacio que están delimitados por las ecuaciones implícitas.
 
@@ -3775,7 +3789,7 @@ La imagen de la ecuación paramétrica de una superficie son los puntos del espa
 Al igual que ocurría con las curvas, la implícita puede representar puntos que la parametrización no alcanza a recorrer.
 
 
-\section{Vectores tangente y normal}
+\subsection{Vectores tangente y normal}
 
 Al haber dos parámetros, hay dos vectores tangentes linealmente independientes.
 
@@ -3815,7 +3829,7 @@ Por otro lado, se puede calcular a partir de la ecuación implícita de una supe
 \end{mdframed}
 
 
-\section{Clasificación de superficies}
+\subsection{Clasificación de superficies}
 
 \begin{mdframed}[style=MyFrame1]
     \begin{defn}
@@ -4325,7 +4339,8 @@ Una vez que se tiene el recinto particionado, se establece para cara partición 
 En la siguiente imagen se muestran graficados la superficie $S$ que es la gráfica de $f(x,y)$, un recinto $R$ de $n \times n = 4 \times 4 = 16$ particiones pudiendo $n$ ser cualquier número natural, y uno de los 16 paralelepípedos:
 
 \begin{center}
-    %\includegraphics[width=7cm]{Int1.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/calc-integral-1.pdf_tex}
 \end{center}
 
 El volumen del paralelepípedo graficado es:
@@ -4379,7 +4394,8 @@ Sea $\Vec{T}:A' \subset \setR^2 \longrightarrow A \subset \setR^2$ una transform
 \end{multline*}
 
 \begin{center}
-    %\includegraphics[width=6cm]{Int2.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/calc-transformacion.pdf_tex}
 \end{center}
 
 % \section*{Transformaciones lineales}
@@ -4401,7 +4417,8 @@ Dada la función $f:D \subset \setR \longrightarrow \setR \tq f(x)=1$. El cálcu
 \end{equation*}
 
 \begin{center}
-    %\includegraphics[width=5cm]{Int3.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/calc-integral-2.pdf_tex}
 \end{center}
 
 
@@ -4413,7 +4430,8 @@ Dada una función $f:D \subset \setR \longrightarrow \setR \tq f(x)>0$. El cálc
 \end{equation*}
 
 \begin{center}
-    %\includegraphics[width=5cm]{Int4.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/calc-integral-3.pdf_tex}
 \end{center}
 
 
@@ -4425,7 +4443,8 @@ Dada la función $f:D \subset \setR^2 \longrightarrow \setR \tq f(x,y)=1$. El c�
 \end{equation*}
 
 \begin{center}
-    %\includegraphics[width=7cm]{Int5.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/calc-integral-4.pdf_tex}
 \end{center}
 
 
@@ -4437,7 +4456,8 @@ Dada una función $f:D \subset \setR^2 \longrightarrow \setR \tq f(x,y)>0$. El c
 \end{equation*}
 
 \begin{center}
-    %\includegraphics[width=7cm]{Int6.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/calc-integral-5.pdf_tex}
 \end{center}
 
 
@@ -4673,7 +4693,7 @@ Se puede definir como un par ordenado perteneciente al plano complejo, donde la 
     \end{equation*}
 \end{mdframed}
 
-Podemos representar un número complejo de forma trigonométrica como un vector de cierto largo $\rho=\norm{z}$ que forma cierto ángulo $\theta = \tan{(x/y)}$ con el eje real.
+Podemos representar un número complejo de forma trigonométrica como un vector de cierto largo $\rho=\norm{z}$ que forma cierto ángulo $\theta = \artan{(x/y)}$ con el eje real.
 
 \begin{mdframed}[style=MyFrame1]
     \begin{defn}
@@ -5138,7 +5158,8 @@ Podemos representar un conjunto de números complejos como un conjunto de puntos
 \end{mdframed}
 
 \begin{center}
-    %\includegraphics[width=5cm]{geometry1.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/calc-geom-1.pdf_tex}
 \end{center}
 
 \begin{mdframed}[style=MyFrame1]
@@ -5152,7 +5173,8 @@ Podemos representar un conjunto de números complejos como un conjunto de puntos
 \end{mdframed}
 
 \begin{center}
-    %\includegraphics[width=5cm]{geometry2.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/calc-geom-2.pdf_tex}
 \end{center}
 
 \begin{mdframed}[style=MyFrame1]
@@ -5166,7 +5188,8 @@ Podemos representar un conjunto de números complejos como un conjunto de puntos
 \end{mdframed}
 
 \begin{center}
-    %\includegraphics[width=5cm]{geometry3.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/calc-geom-3.pdf_tex}
 \end{center}
 
 
@@ -5581,7 +5604,8 @@ Finalmente, según la propiedad \ref{prop:ReIm} y nuevamente la propiedad \ref{p
 Nótese que tanto la variable $z$ como el punto $z_0$ son complejos. Por lo tanto el incremento $h=z-z_0$ también lo es.
 
 \begin{center}
-    %\includegraphics[width=5cm]{derivate1.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/calc-deriv.pdf_tex}
 \end{center}
 
 \begin{mdframed}[style=MyFrame1]
@@ -6212,7 +6236,8 @@ En tal caso, la integral se computa evaluando la primitiva en el punto final men
 Sea $A$ un conjunto abierto simplemente conexo y $C$ una curva cerrada y simple contenida por $A$:
 
 \begin{center}
-    %\includegraphics[width=4.5cm]{integral1.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/calc-int-curv-1.pdf_tex}
 \end{center}
 
 Aplicando el Teorema de Green en cada uno de los campos vectoriales de la definición (\ref{defn:integral}) de integral curvilínea, teniendo en cuenta las ecuaciones de Cauchy-Riemann, se puede observar que los integrandos se anulan.
@@ -6251,7 +6276,8 @@ En conclusión:
 Sea $A$ un conjunto abierto simplemente conexo, sea $C$ una curva cerrada y simple contenida por $A$, sea $z_0$ un punto interior de $C$:
 
 \begin{center}
-    %\includegraphics[width=4.5cm]{integral2.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/calc-int-curv-2.pdf_tex}
 \end{center}
 
 \begin{mdframed}[style=MyFrame1]
@@ -6647,7 +6673,8 @@ Sea $A$ un conjunto abierto tal que:
 Sea $C$ una curva cerrada y simple contenida por $A$.
 
 \begin{center}
-    %\includegraphics[width=4cm]{series1.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/calc-series-1.pdf_tex}
 \end{center}
 
 \begin{mdframed}[style=MyFrame1]
@@ -6678,7 +6705,8 @@ Sea $A$ un conjunto abierto tal que:
 Sea $C$ una curva cerrada y simple contenida por $A$.
 
 \begin{center}
-    %\includegraphics[width=4cm]{series2.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/calc-series-2.pdf_tex}
 \end{center}
 
 \begin{mdframed}[style=MyFrame1]
@@ -6886,11 +6914,13 @@ Esto significa que la integral sobre la curva $C$ está dada por la integral del
 El teorema de los residuos permite calcular la integral sobre una curva cerrada que encierre una cantidad $\Nth$ finita de singularidades aisladas:
 
 \begin{center}
-    %\includegraphics[width=8cm]{pole2.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/calc-polos-2.pdf_tex}
 \end{center}
 
 \begin{center}
-    %\includegraphics[width=4.5cm]{pole1.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/calc-polos-1.pdf_tex}
 \end{center}
 
 \begin{mdframed}[style=MyFrame1]
@@ -6950,7 +6980,8 @@ Sea $f(z)$ un cociente de polinomios. Se tiene un segmento de la recta real y un
 Este semicírculo cerrado contiene las $\Nth$ singularidades que $f(z) \, e^{\iu \omega z}$ presente en el semiplano superior.
 
 \begin{center}
-    %\includegraphics[width=5cm]{pole3.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/calc-polos-3.pdf_tex}
 \end{center}
 
 \begin{equation*}
@@ -8112,7 +8143,8 @@ Por lo tanto, se optará por rechazar $h_0$ si se verifica la siguiente inecuaci
 Las escalas logarítmicas son aquellas que tienen un factor de escala no lineal. En un gráfico con escala logarítmica, los intervalos del eje aumentan de manera no simétrica, como se muestra en la siguiente imagen:
 
 \begin{center}
-    %\includegraphics[width=9.8cm]{scale.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/misc-escala-log.pdf_tex}
 \end{center}
 
 En la imagen anterior, el eje $m$ está representado en escala logarítmica con base 10, mientras que el eje $n$ en escala lineal. Una escala logarítmica permite representar fenómenos que requieran más resolución a medida que la variable disminuye. Por ejemplo, el intervalo $[1;10]$ representa la mitad del intervalo total, mientras que el intervalo $[10;19]$ representa menos de la cuarta parte, y aún así ambos tienen el mismo módulo.
@@ -8225,7 +8257,8 @@ De manera que, por ejemplo, si la función está dada por una expresión senoida
 \end{equation*}
 
 \begin{center}
-    %\includegraphics[width=5cm]{rms.png}
+    \def\svgwidth{\linewidth}
+    \input{./images/misc-rms.pdf_tex}
 \end{center}
 
 

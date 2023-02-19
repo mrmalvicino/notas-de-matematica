@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150mm"
+   height="120mm"
+   viewBox="0 0 150 120"
+   version="1.1"
+   id="svg18249"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="alg-proyeccion.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview18251"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.94867184"
+     inkscape:cx="250.87706"
+     inkscape:cy="175.50853"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs18246" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 74.999987,17.138656 V 113.93345"
+       id="path997-8-9-2"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\ortoComp.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 121.75048,78.06223 28.249496,53.009886"
+       id="path1526-1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\ortoComp.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 116.91488,41.337766 33.085096,89.73436"
+       id="path1528-4"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\ortoComp.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1905-9-1-0"
+       d="m 121.75048,78.06223 0.3412,-1.2736 c 0,0 0.3692,1.21578 4.6142,2.6014 -4.3691,-0.92252 -5.2967,-0.0542 -5.2967,-0.0542 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\ortoComp.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1907-9-5-5"
+       d="m 33.085096,89.73436 0.6593,1.14188 c 0,0 -1.1208,-0.59863 -5.1022,1.42325 3.7417,-2.4371 3.783601,-3.70699 3.783601,-3.70699 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\ortoComp.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1903-1-7-6"
+       d="m 74.999987,17.138656 h -1.3185 c 0,0 1.0788,-0.67127 1.3185,-5.13026 0.2397,4.45899 1.3185,5.13026 1.3185,5.13026 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\ortoComp.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 65.417586,40.004406 138.91595,59.698243 84.582436,91.06772 11.084046,71.37388 Z"
+       id="path2751"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\ortoComp.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path849-9"
+       d="M 101.02689,39.410816 74.999987,65.53606"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\ortoComp.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path872-8"
+       d="m 101.02687,39.410806 -0.93233,-0.93234 c 0,0 1.23748,0.28818 4.55997,-2.69528 -2.98347,3.32248 -2.69529,4.55996 -2.69529,4.55996 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\ortoComp.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 74.999987,35.783196 H 104.65452 V 65.53606"
+       id="path3712"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\ortoComp.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path849-3"
+       d="M 99.524283,65.53606 H 75.000016"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\ortoComp.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path872-34"
+       d="m 99.524274,65.53606 v -1.318517 c 0,0 0.671256,1.078797 5.130246,1.318517 -4.45899,0.23972 -5.130246,1.31852 -5.130246,1.31852 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\ortoComp.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path849-3-5"
+       d="M 74.999987,40.913436 V 65.4377"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\ortoComp.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path872-34-6"
+       d="m 74.999987,40.913446 h -1.318521 c 0,0 1.0788,-0.67126 1.318521,-5.13025 0.23972,4.45899 1.31852,5.13025 1.31852,5.13025 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\ortoComp.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 84.400436,60.109013 20.254084,5.427047 -9.399804,5.42698"
+       id="path5137"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\ortoComp.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="73.768707"
+       y="9.4825554"
+       id="text1280"><tspan
+         sodipodi:role="line"
+         id="tspan1278"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="73.768707"
+         y="9.4825554">$z$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="128.59895"
+       y="81.50872"
+       id="text1280-0"><tspan
+         sodipodi:role="line"
+         id="tspan1278-4"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="128.59895"
+         y="81.50872">$x$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="105.33322"
+       y="33.956493"
+       id="text1280-0-4"><tspan
+         sodipodi:role="line"
+         id="tspan1278-4-1"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="105.33322"
+         y="33.956493"
+         dy="0 0 0 0 0 0 0 0 0.13944934">$\vec{v}$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="106.12784"
+       y="66.378464"
+       id="text1280-0-4-0"><tspan
+         sodipodi:role="line"
+         id="tspan1278-4-1-1"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="106.12784"
+         y="66.378464"
+         dy="0 0 0 0 0 0 0 0 0.13944934">$\vec{s}$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="22.059645"
+       y="95.732552"
+       id="text1280-5"><tspan
+         sodipodi:role="line"
+         id="tspan1278-9"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="22.059645"
+         y="95.732552">$y$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="65.394073"
+       y="33.747318"
+       id="text1280-0-4-0-2"><tspan
+         sodipodi:role="line"
+         id="tspan1278-4-1-1-1"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="65.394073"
+         y="33.747318"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.27889869">$\vec{s}^\perp$</tspan></text>
+  </g>
+</svg>

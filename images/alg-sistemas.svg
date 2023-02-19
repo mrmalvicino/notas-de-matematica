@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="90mm"
+   viewBox="0 0 210 90"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="alg-sistemas.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="60mm"
+     inkscape:zoom="1"
+     inkscape:cx="396"
+     inkscape:cy="282.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1005"
+       transform="translate(0.08366705,-7.4581674)">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot1027-6-5-1-5-15"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,34.522185,-71.116219)"
+         inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\SL.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"><flowRegion
+           id="flowRegion1023-6-9-7-1-2"><rect
+             id="rect1021-2-9-4-3-2"
+             width="453.28772"
+             height="152.04512"
+             x="150.68999"
+             y="314.73935" /></flowRegion><flowPara
+           id="flowPara1025-1-57-2-9-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">Sistema lineal</flowPara></flowRoot>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4400"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,-18.394483,-44.657869)"
+         inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\SL.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"><flowRegion
+           id="flowRegion4396"><rect
+             id="rect4394"
+             width="453.28772"
+             height="152.04512"
+             x="150.68999"
+             y="314.73935" /></flowRegion><flowPara
+           id="flowPara4398"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">Homogéneo</flowPara></flowRoot>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4408"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,92.730522,-44.657869)"
+         inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\SL.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"><flowRegion
+           id="flowRegion4404"><rect
+             id="rect4402"
+             width="453.28772"
+             height="152.04512"
+             x="150.68999"
+             y="314.73935"
+             style="stroke-width:1" /></flowRegion><flowPara
+           id="flowPara4406"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">No homogéneo</flowPara></flowRoot>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6500"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,-76.602824,-12.907849)"
+         inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\SL.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"><flowRegion
+           id="flowRegion6496"
+           style="text-align:center;text-anchor:middle"><rect
+             id="rect6494"
+             width="453.28772"
+             height="152.04512"
+             x="150.68999"
+             y="314.73935"
+             style="text-anchor:middle;text-align:center" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:center;text-anchor:middle"
+           id="flowPara6732">SCD</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:center;text-anchor:middle"
+           id="flowPara6761">(Sol. trivial)</flowPara></flowRoot>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot8775"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,-34.269484,-12.907849)"
+         inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\SL.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"><flowRegion
+           id="flowRegion8769"
+           style="text-align:center;text-anchor:middle"><rect
+             id="rect8767"
+             width="453.28772"
+             height="152.04512"
+             x="150.68999"
+             y="314.73935"
+             style="text-anchor:middle;text-align:center" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:center;text-anchor:middle"
+           id="flowPara8771">SCI</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:center;text-anchor:middle"
+           id="flowPara8773">(Inf. sol.)</flowPara></flowRoot>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9481"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,13.355517,-12.907849)"
+         inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\SL.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"><flowRegion
+           id="flowRegion9475"
+           style="text-align:center;text-anchor:middle"><rect
+             id="rect9473"
+             width="453.28772"
+             height="152.04512"
+             x="150.68999"
+             y="314.73935"
+             style="text-anchor:middle;text-align:center" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:center;text-anchor:middle"
+           id="flowPara9477">SCD</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:center;text-anchor:middle"
+           id="flowPara9479">(Única sol.)</flowPara></flowRoot>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot11159"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,55.688851,-12.907849)"
+         inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\SL.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"><flowRegion
+           id="flowRegion11153"
+           style="text-align:center;text-anchor:middle"><rect
+             id="rect11151"
+             width="453.28772"
+             height="152.04512"
+             x="150.68999"
+             y="314.73935"
+             style="text-anchor:middle;text-align:center" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:center;text-anchor:middle"
+           id="flowPara11155">SCI</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:center;text-anchor:middle"
+           id="flowPara11157">(Inf. sol.)</flowPara></flowRoot>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot12141"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,92.73052,-12.907849)"
+         inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\SL.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"><flowRegion
+           id="flowRegion12135"
+           style="text-align:center;text-anchor:middle"><rect
+             id="rect12133"
+             width="453.28772"
+             height="152.04512"
+             x="150.68999"
+             y="314.73935"
+             style="text-anchor:middle;text-align:center" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:center;text-anchor:middle"
+           id="flowPara12137">SI</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:center;text-anchor:middle"
+           id="flowPara12139">(Sin sol.)</flowPara></flowRoot>
+      <path
+         style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         d="M 100.84019,23.694966 C 83.203137,36.814917 57.346209,26.232862 40.767194,38.018942"
+         id="path21722"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\SL.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         d="m 100.84019,23.694966 c 17.63706,13.119951 43.494,2.537896 60.07301,14.323976"
+         id="path22165"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\SL.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         d="m 44.481576,50.662042 c 5.725075,16.199124 14.118361,3.133525 19.49999,17.685726"
+         id="path22189"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\SL.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         d="M 44.481576,50.662042 C 38.756501,66.861166 30.363215,53.795567 24.981586,68.347768"
+         id="path22271"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\SL.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         d="m 155.91385,49.638902 c 10.96039,16.199124 27.02899,3.133525 37.33189,17.685726"
+         id="path22189-1"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\SL.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         d="m 155.91385,49.638902 c -10.96039,16.199124 -27.02898,3.133525 -37.33188,17.685726"
+         id="path22380"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\SL.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         d="M 155.91385,49.638902 V 67.324628"
+         id="path22417"
+         inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Matemática\PNG\SL.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+    </g>
+  </g>
+</svg>

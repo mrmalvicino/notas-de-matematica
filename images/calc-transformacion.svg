@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120mm"
+   height="60mm"
+   viewBox="0 0 120 60"
+   version="1.1"
+   id="svg20482"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="calc-transformacion.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview20484"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.94867184"
+     inkscape:cx="250.87706"
+     inkscape:cy="239.80895"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs20479" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect966"
+       width="38.931545"
+       height="38.931545"
+       x="3.9650316"
+       y="10.534226"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <circle
+       style="fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path968"
+       cx="96.569199"
+       cy="30.000002"
+       r="19.465773"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       id="g1005"
+       transform="translate(-40.089726,-166.34558)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 87.505881,187.01741 c 0,0 12.623559,-4.83435 26.080359,0"
+         id="path970" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path872-2"
+         d="m 108.63081,185.68958 0.34125,-1.27359 c 0,0 0.36915,1.21578 4.61418,2.6014 -4.3691,-0.92252 -5.29669,-0.0542 -5.29669,-0.0542 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 113.61852,205.67374 c 0,0 -12.62356,4.83435 -26.08036,0"
+         id="path991" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path993"
+         d="m 92.49359,207.00157 -0.34125,1.27359 c 0,0 -0.36915,-1.21578 -4.61418,-2.6014 4.3691,0.92252 5.29669,0.0542 5.29669,0.0542 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="19.721115"
+       y="31.356573"
+       id="text1068"><tspan
+         sodipodi:role="line"
+         id="tspan1066"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="19.721115"
+         y="31.356573">$A'$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="93.804443"
+       y="31.356573"
+       id="text1650"><tspan
+         sodipodi:role="line"
+         id="tspan1648"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="93.804443"
+         y="31.356573">$A$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="56.959999"
+       y="15.481574"
+       id="text1888"><tspan
+         sodipodi:role="line"
+         id="tspan1886"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="56.959999"
+         y="15.481574">$T$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="56.959999"
+       y="45.712448"
+       id="text1994"><tspan
+         sodipodi:role="line"
+         id="tspan1992"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="56.959999"
+         y="45.712448"
+         dy="0 0 0 0 0 0 0 0.39442232">$T^{-1}$</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="70mm"
+   viewBox="0 0 100 70"
+   version="1.1"
+   id="svg20836"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="calc-integral-2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview20838"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3416246"
+     inkscape:cx="268.3314"
+     inkscape:cy="86.835022"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs20833" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 19.985041,9.872006 V 65.240513"
+       id="path835-2"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path872-0-7"
+       d="m 19.985041,9.872006 h -1.31852 c 0,0 1.0788,-0.671259 1.31852,-5.130249 0.23972,4.45899 1.31852,5.130249 1.31852,5.130249 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 92.117846,54.657189 H 9.4017012"
+       id="path1014"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1016"
+       d="m 92.117846,54.657189 v -1.31852 c 0,0 0.67125,1.0788 5.130235,1.31852 -4.458985,0.23972 -5.130235,1.31852 -5.130235,1.31852 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       id="path2972-2"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 72.510026,21.773256 c 0.42334,-2.49581 -13.83993,-1.34623 -13.83993,-1.34623 0,0 -2.88974,0.19697 -3.74694,-1.72626 m -17.586875,3.07249 c -0.42333,-2.49581 13.839985,-1.34623 13.839985,-1.34623 0,0 2.88972,0.19697 3.74689,-1.72626"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int3.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 92.117846,22.907184 H 17.254961"
+       id="path1107"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1113"
+       width="35.173748"
+       height="31.75"
+       x="37.336281"
+       y="22.907181"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 37.336291,56.226619 v -2.48072"
+       id="path1107-2"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 72.510026,56.226619 v -2.48072"
+       id="path1205"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <circle
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.959839"
+       id="path1353-4"
+       cx="37.336281"
+       cy="22.907188"
+       r="1"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <circle
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.959839"
+       id="path1353-4-5"
+       cx="72.510033"
+       cy="22.907188"
+       r="1"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="53.049801"
+       y="40.6255"
+       id="text1886"><tspan
+         sodipodi:role="line"
+         id="tspan1884"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="53.049801"
+         y="40.6255">$A$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="8.9645643"
+       y="22.936886"
+       id="text1886-5"><tspan
+         sodipodi:role="line"
+         id="tspan1884-8"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="8.9645643"
+         y="22.936886">$1$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="91.990463"
+       y="49.363182"
+       id="text1886-8"><tspan
+         sodipodi:role="line"
+         id="tspan1884-7"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="91.990463"
+         y="49.363182">$x$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="33.383453"
+       y="61.19585"
+       id="text1886-8-06"><tspan
+         sodipodi:role="line"
+         id="tspan1884-7-9"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="33.383453"
+         y="61.19585">$x_0$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="51.132462"
+       y="15.640074"
+       id="text1886-8-0"><tspan
+         sodipodi:role="line"
+         id="tspan1884-7-5"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="51.132462"
+         y="15.640074"
+         dy="0 0 0 0 0 0 0 0 0.19721116">$\Delta x$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="8.3376379"
+       y="6.5683603"
+       id="text1886-8-3"><tspan
+         sodipodi:role="line"
+         id="tspan1884-7-3"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="8.3376379"
+         y="6.5683603"
+         dy="0 0 0 0.19721116 0 0 0 0.39442232">$\fx{x}$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="69.044647"
+       y="61.19585"
+       id="text4859"><tspan
+         sodipodi:role="line"
+         id="tspan4857"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="69.044647"
+         y="61.19585">$x_1$</tspan></text>
+  </g>
+</svg>

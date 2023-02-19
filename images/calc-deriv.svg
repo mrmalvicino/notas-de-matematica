@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120mm"
+   height="90mm"
+   viewBox="0 0 120 90"
+   version="1.1"
+   id="svg25559"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="calc-deriv.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview25561"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.94867184"
+     inkscape:cx="46.380633"
+     inkscape:cy="288.2978"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs25556" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:connector-curvature="0"
+       id="path1149"
+       d="m 22.534748,15.510258 v 66.07117"
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Backup\Academic\My Notes\Apunte AM3\PNG\derivate1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1151"
+       d="m 22.534748,15.257788 h -1.31852 c 0,0 1.0788,-0.67126 1.31852,-5.13025 0.23972,4.45899 1.31852,5.13025 1.31852,5.13025 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Backup\Academic\My Notes\Apunte AM3\PNG\derivate1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1153"
+       d="M 102.86112,70.998088 H 11.951418"
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Backup\Academic\My Notes\Apunte AM3\PNG\derivate1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1155"
+       d="m 102.86112,70.998088 v -1.31852 c 0,0 0.67126,1.0788 5.13024,1.31852 -4.45898,0.23972 -5.13024,1.31852 -5.13024,1.31852 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Backup\Academic\My Notes\Apunte AM3\PNG\derivate1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <circle
+       style="opacity:0.999;fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       id="path1312-72"
+       cx="-47.297195"
+       cy="62.960495"
+       r="16.867178"
+       inkscape:export-filename="C:\Backup\Academic\My Notes\Apunte AM3\PNG\derivate1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="rotate(-90)" />
+    <circle
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.959839"
+       id="circle1432-5-19"
+       cx="62.958969"
+       cy="47.296585"
+       inkscape:export-filename="C:\Backup\Academic\My Notes\Apunte AM3\PNG\derivate1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       r="1" />
+    <circle
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.959839"
+       id="circle1432-5-19-6"
+       cx="62.960434"
+       cy="30.430037"
+       inkscape:export-filename="C:\Backup\Academic\My Notes\Apunte AM3\PNG\derivate1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       r="1" />
+    <g
+       id="g1336"
+       transform="rotate(-90,112.64657,261.1465)"
+       inkscape:export-filename="C:\Backup\Academic\My Notes\Apunte AM3\PNG\derivate1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 343.36302,211.46042 H 326.49586"
+         id="path1317" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path1155-3"
+         d="m 331.6261,211.46042 v -1.31852 c 0,0 -0.67126,1.0788 -5.13024,1.31852 4.45898,0.23972 5.13024,1.31852 5.13024,1.31852 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="C:\Backup\Academic\My Notes\Apunte AM3\PNG\Geometry3.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+    </g>
+    <g
+       id="g1384"
+       transform="rotate(180,178.37032,150.91451)"
+       inkscape:export-filename="C:\Backup\Academic\My Notes\Apunte AM3\PNG\derivate1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 334.20571,230.83093 -40.42563,23.70089"
+         id="path1317-3" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path1155-3-0"
+         d="m 298.22299,251.96671 -0.65926,-1.14187 c 0,0 -0.0419,1.2699 -3.78366,3.70699 3.98145,-2.02189 5.10218,-1.42325 5.10218,-1.42325 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="C:\Backup\Academic\My Notes\Apunte AM3\PNG\Geometry3.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 22.534758,70.998108 40.42559,-40.42561"
+       id="path1317-3-8"
+       inkscape:export-filename="C:\Backup\Academic\My Notes\Apunte AM3\PNG\derivate1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1155-3-0-9"
+       d="m 59.332708,34.200148 0.93233,0.93234 c 0,0 -0.28817,-1.23748 2.69529,-4.55997 -3.32248,2.98347 -4.55996,2.6953 -4.55996,2.6953 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Backup\Academic\My Notes\Apunte AM3\PNG\derivate1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="13.10824"
+       y="14.223834"
+       id="text949"><tspan
+         sodipodi:role="line"
+         id="tspan947"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="13.10824"
+         y="14.223834">$\iu \, y$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="100.24912"
+       y="76.862968"
+       id="text949-5"><tspan
+         sodipodi:role="line"
+         id="tspan947-7"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="100.24912"
+         y="76.862968">$x$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="64.892914"
+       y="38.139977"
+       id="text949-5-3"><tspan
+         sodipodi:role="line"
+         id="tspan947-7-7"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="64.892914"
+         y="38.139977">$h$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="60.497635"
+       y="27.681273"
+       id="text949-5-3-8"><tspan
+         sodipodi:role="line"
+         id="tspan947-7-7-1"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="60.497635"
+         y="27.681273">$z$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="64.402214"
+       y="52.363808"
+       id="text3242"><tspan
+         sodipodi:role="line"
+         id="tspan3240"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="64.402214"
+         y="52.363808">$z_0$</tspan></text>
+  </g>
+</svg>

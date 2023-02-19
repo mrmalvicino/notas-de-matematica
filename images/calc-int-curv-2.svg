@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120mm"
+   height="90mm"
+   viewBox="0 0 120 90"
+   version="1.1"
+   id="svg24257"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="calc-int-curv-2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview24259"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3416246"
+     inkscape:cx="234.78997"
+     inkscape:cy="107.70524"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs24254" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 52.849476,15.063829 c -14.37863,9.10387 -30.10591,17.73661 -34.8225,37.04049 -3.48766,14.27418 21.22793,22.84495 34.0054,26.59957 13.34089,3.92019 32.08212,-0.0778 42.64982,-11.66685 6.794744,-7.45148 13.320514,-29.87606 -0.77726,-45.60422 -8.89201,-9.75142 -24.32219,-16.96372 -41.05546,-6.36899 z"
+       id="path1405-7"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\Backup\Academic\My Notes\Apunte AM3\PNG\integral2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 68.269706,22.172119 c 0,0 -36.58766,0.28435 -32.48984,23.03239 4.09782,22.74806 21.07448,38.95603 40.97818,22.17935 19.90369,-16.77668 21.29582,-27.65304 19.90369,-32.70031 -1.23378,-4.47318 -1.46351,-13.08013 -28.39203,-12.51143 z"
+       id="path1407-7"
+       sodipodi:nodetypes="csssc"
+       inkscape:export-filename="C:\Backup\Academic\My Notes\Apunte AM3\PNG\integral2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       id="path1465"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 56.215886,26.349289 -2.87083,-1.96749 1.96749,-2.87085"
+       inkscape:export-filename="C:\Backup\Academic\My Notes\Apunte AM3\PNG\integral2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       id="g1471"
+       transform="translate(6.921996,21.177859)"
+       inkscape:export-filename="C:\Backup\Academic\My Notes\Apunte AM3\PNG\integral2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 56.086457,21.808111 2.190404,2.190401"
+         id="path1467" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 58.276861,21.808111 -2.190404,2.190401"
+         id="path1469" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="37.977818"
+       y="39.946598"
+       id="text1516"><tspan
+         sodipodi:role="line"
+         id="tspan1514"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="37.977818"
+         y="39.946598">$C$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="65.735535"
+       y="48.771549"
+       id="text1516-1"><tspan
+         sodipodi:role="line"
+         id="tspan1514-7"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="65.735535"
+         y="48.771549">$z_0$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="23.286085"
+       y="57.5965"
+       id="text2526"><tspan
+         sodipodi:role="line"
+         id="tspan2524"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="23.286085"
+         y="57.5965">$A$</tspan></text>
+  </g>
+</svg>
