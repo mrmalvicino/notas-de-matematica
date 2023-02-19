@@ -54,7 +54,7 @@
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{alg-orto-4.pdf}}%
-    \put(0.19690359,0.30309508){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\vec{v}_3-\fx[\vec{\proy}_{\vec{v}_1}]{\vec{v}_3}$\end{tabular}}}}%
+    \put(0,0.33){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\vec{v}_3-\fx[\vec{\proy}_{\vec{v}_1}]{\vec{v}_3}$\end{tabular}}}}%
     \put(0.88889372,0.37485805){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\vec{v}_1$\end{tabular}}}}%
     \put(0.53748016,0.19079429){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\vec{v}_3$\end{tabular}}}}%
     \put(0.72154397,0.53920067){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\vec{v}_2$\end{tabular}}}}%

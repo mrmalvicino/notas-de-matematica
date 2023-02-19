@@ -58,6 +58,6 @@
     \put(0,0){\includegraphics[width=\unitlength,page=1]{alg-rulo.pdf}}%
     \put(0.01927267,0.18907965){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23473521\unitlength}\raggedright in\end{minipage}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{alg-rulo.pdf}}%
-    \put(0.1380478,0.25444887){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$C_{BB'} = C_{EB'} \cdot C_{BE}$\end{tabular}}}}%
+    \put(0.05,0.25){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$C_{BB'} = C_{EB'} \cdot C_{BE}$\end{tabular}}}}%
   \end{picture}%
 \endgroup%

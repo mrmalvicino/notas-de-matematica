@@ -602,7 +602,7 @@ Y la operación externa $\cdot:\setK \times \setV \longrightarrow \setV$ verific
     \begin{defn}
     \end{defn}
     \cusTi{Dimensión}
-    \cusTe{Dados un conjunto $S\subseteq \setR^\nth$ y una base $B=\braces{\Vec{v}_1, \Vec{v}_2 \dots \Vec{v}_\kth} \tq S=\operatorname{gen}(B)$ se define la dimensión de $S$ como la cantidad de elementos de $B$.}
+    \cusTe{Dado el conjunto $S\subseteq \setR^\nth$ y dada la base $B=\braces{\Vec{v}_1, \Vec{v}_2 \dots \Vec{v}_\kth}$ tal que $S=\operatorname{gen}(B)$ se define la dimensión de $S$ como la cantidad de elementos de $B$.}
     \begin{equation*}
         \operatorname{dim}(S) = \kth
     \end{equation*}
@@ -620,14 +620,14 @@ Observar que la cantidad ($k$) de elementos de un conjunto generador de $S$ pued
     Plano con $\operatorname{dim}(S)=2, \nth=3, \kth=4$:
 
     \begin{center}
-        \def\svgwidth{\linewidth}
+        \def\svgwidth{0.6\linewidth}
         \input{./images/alg-generadores.pdf_tex}
     \end{center}
 
     Plano con $\operatorname{dim}(S)=2, \nth=3, \kth=2$:
 
     \begin{center}
-        \def\svgwidth{\linewidth}
+        \def\svgwidth{0.6\linewidth}
         \input{./images/alg-base.pdf_tex}
     \end{center}
 \end{mdframed}
@@ -694,7 +694,7 @@ Observar que $\setV$ puede ser un espacio abstracto, por ejemplo de polinomios o
     Dado el espacio vectorial $\setV=\setR^2$ y dos bases $E=\braces{\eVer_1,\eVer_2}$ y $B=\braces{\Vec{v}_1,\Vec{v}_2}=\braces{(1,1),(1,-1)}$ se quieren calcular, para el vector $\Vec{w}$ ubicado en el punto $(x,y)=(-1,1)$, las coordenadas en cada base.
     
     \begin{center}
-        \def\svgwidth{\linewidth}
+        \def\svgwidth{0.6\linewidth}
         \input{./images/alg-base-cambio.pdf_tex}
     \end{center}
     
@@ -888,7 +888,7 @@ Reemplazando la primera en la segunda se tiene:
 Al ser una multiplicación matricial, el orden de los factores sí altera el producto. Para $C_{BB'}$ la base de entrada es $B$ y la base de salida es $B'$. Al desarrollar el producto, a la derecha de la igualdad, la matriz que primero actúa es $C_{BE}$ siendo $B$ su entrada y $E$ su salida. Y luego actúa $C_{EB'}$ siendo $E$ su entrada (que es la salida de $C_{BE}$) y $B'$ su salida.
 
 \begin{center}
-    \def\svgwidth{\linewidth}
+    \def\svgwidth{0.4\linewidth}
     \input{./images/alg-rulo.pdf_tex}
 \end{center}
 
@@ -1820,7 +1820,7 @@ Surgen luego las siguientes definiciones:
 La proyección de un vector $\Vec{v}$ sobre un director $\Vec{r}$ es un tercer vector proporcional a $\Vec{r}$. En $\setR^2$ y $\setR^3$ la proporción surge de \emph{proyectar}, desde la punta de $\Vec{v}$, una recta que sea ortogonal a $\Vec{r}$. A contnuación se tiene un esquema en $\setR^2$.
 
 \begin{center}
-    \def\svgwidth{\linewidth}
+    \def\svgwidth{0.6\linewidth}
     \input{./images/alg-orto-1.pdf_tex}
 \end{center}
 
@@ -1887,7 +1887,7 @@ El primer elemento de $B'$ lo podemos definir de manera arbitraria a partir de c
 El segundo elemento de $B'$ se define de manera análoga a como se dedujo la proyección ortogonal anteriormente (Prop. \ref{prop:proyOrto}). A continuación se tiene un esquema equivalente, ya que el proyectado y el director son elementos de la base $B$ por lo que cambia la notación.
 
 \begin{center}
-    \def\svgwidth{\linewidth}
+    \def\svgwidth{0.6\linewidth}
     \input{./images/alg-orto-2.pdf_tex}
 \end{center}
 
@@ -1901,7 +1901,7 @@ Vemos que podemos construir un vector ortogonal a $\Vec{v}_1$ restando al proyec
 Si la base original $B$ fuese de 3 o más elementos, el tercer elemento de la nueva base ortogonal $B'$ se obtendría con el mismo razonamiento. La siguiente es una representación simplista de los vectores de $B$ y sus proyecciones, a partir de las que se obtienen los vectores de $B'$.
 
 \begin{center}
-    \def\svgwidth{\linewidth}
+    \def\svgwidth{0.6\linewidth}
     \input{./images/alg-orto-3.pdf_tex}
 \end{center}
 
@@ -1915,7 +1915,7 @@ Quedando el tercer elemento $\Vec{w}_3$ expresado por:
 A primera vista uno puede suponer que el término $-\proy_{\Vec{w}_2}(\Vec{v}_3)$ está de más, pero no es así. En la representación anterior la proyección de $\Vec{v}_3$ sobre $\Vec{w}_2$ es nula, y por eso este término no afecta la ecuación. Un esquema más representativo sería el siguiente, donde $\Vec{v}_3$ no está contenido en el plano gris y aún así forma parte de una base de $\setR^3$ junto con $\Vec{v}_1$ y $\Vec{v}_2$.
 
 \begin{center}
-    \def\svgwidth{\linewidth}
+    \def\svgwidth{0.7\linewidth}
     \input{./images/alg-orto-4.pdf_tex}
 \end{center}
 
@@ -2079,7 +2079,7 @@ La ecuación \ref{eqn:orto} es de suma importancia, ya que da cuenta de la simpl
 A continuación se tiene un esquema para $\setV=\setR^3$ donde $S$ es un plano y $S^\perp$ una recta.
 
 \begin{center}
-    \def\svgwidth{\linewidth}
+    \def\svgwidth{0.6\linewidth}
     \input{./images/alg-proyeccion.pdf_tex}
 \end{center}
 
@@ -4339,7 +4339,7 @@ Una vez que se tiene el recinto particionado, se establece para cara partición 
 En la siguiente imagen se muestran graficados la superficie $S$ que es la gráfica de $f(x,y)$, un recinto $R$ de $n \times n = 4 \times 4 = 16$ particiones pudiendo $n$ ser cualquier número natural, y uno de los 16 paralelepípedos:
 
 \begin{center}
-    \def\svgwidth{\linewidth}
+    \def\svgwidth{0.6\linewidth}
     \input{./images/calc-integral-1.pdf_tex}
 \end{center}
 
@@ -4394,7 +4394,7 @@ Sea $\Vec{T}:A' \subset \setR^2 \longrightarrow A \subset \setR^2$ una transform
 \end{multline*}
 
 \begin{center}
-    \def\svgwidth{\linewidth}
+    \def\svgwidth{0.8\linewidth}
     \input{./images/calc-transformacion.pdf_tex}
 \end{center}
 
@@ -4417,7 +4417,7 @@ Dada la función $f:D \subset \setR \longrightarrow \setR \tq f(x)=1$. El cálcu
 \end{equation*}
 
 \begin{center}
-    \def\svgwidth{\linewidth}
+    \def\svgwidth{0.6\linewidth}
     \input{./images/calc-integral-2.pdf_tex}
 \end{center}
 
@@ -4430,7 +4430,7 @@ Dada una función $f:D \subset \setR \longrightarrow \setR \tq f(x)>0$. El cálc
 \end{equation*}
 
 \begin{center}
-    \def\svgwidth{\linewidth}
+    \def\svgwidth{0.6\linewidth}
     \input{./images/calc-integral-3.pdf_tex}
 \end{center}
 
@@ -4443,7 +4443,7 @@ Dada la función $f:D \subset \setR^2 \longrightarrow \setR \tq f(x,y)=1$. El c�
 \end{equation*}
 
 \begin{center}
-    \def\svgwidth{\linewidth}
+    \def\svgwidth{0.6\linewidth}
     \input{./images/calc-integral-4.pdf_tex}
 \end{center}
 
@@ -4456,7 +4456,7 @@ Dada una función $f:D \subset \setR^2 \longrightarrow \setR \tq f(x,y)>0$. El c
 \end{equation*}
 
 \begin{center}
-    \def\svgwidth{\linewidth}
+    \def\svgwidth{0.6\linewidth}
     \input{./images/calc-integral-5.pdf_tex}
 \end{center}
 
@@ -5158,7 +5158,7 @@ Podemos representar un conjunto de números complejos como un conjunto de puntos
 \end{mdframed}
 
 \begin{center}
-    \def\svgwidth{\linewidth}
+    \def\svgwidth{0.6\linewidth}
     \input{./images/calc-geom-1.pdf_tex}
 \end{center}
 
@@ -5173,7 +5173,7 @@ Podemos representar un conjunto de números complejos como un conjunto de puntos
 \end{mdframed}
 
 \begin{center}
-    \def\svgwidth{\linewidth}
+    \def\svgwidth{0.6\linewidth}
     \input{./images/calc-geom-2.pdf_tex}
 \end{center}
 
@@ -5188,7 +5188,7 @@ Podemos representar un conjunto de números complejos como un conjunto de puntos
 \end{mdframed}
 
 \begin{center}
-    \def\svgwidth{\linewidth}
+    \def\svgwidth{0.6\linewidth}
     \input{./images/calc-geom-3.pdf_tex}
 \end{center}
 
@@ -5604,7 +5604,7 @@ Finalmente, según la propiedad \ref{prop:ReIm} y nuevamente la propiedad \ref{p
 Nótese que tanto la variable $z$ como el punto $z_0$ son complejos. Por lo tanto el incremento $h=z-z_0$ también lo es.
 
 \begin{center}
-    \def\svgwidth{\linewidth}
+    \def\svgwidth{0.6\linewidth}
     \input{./images/calc-deriv.pdf_tex}
 \end{center}
 
@@ -6236,7 +6236,7 @@ En tal caso, la integral se computa evaluando la primitiva en el punto final men
 Sea $A$ un conjunto abierto simplemente conexo y $C$ una curva cerrada y simple contenida por $A$:
 
 \begin{center}
-    \def\svgwidth{\linewidth}
+    \def\svgwidth{0.6\linewidth}
     \input{./images/calc-int-curv-1.pdf_tex}
 \end{center}
 
@@ -6276,7 +6276,7 @@ En conclusión:
 Sea $A$ un conjunto abierto simplemente conexo, sea $C$ una curva cerrada y simple contenida por $A$, sea $z_0$ un punto interior de $C$:
 
 \begin{center}
-    \def\svgwidth{\linewidth}
+    \def\svgwidth{0.6\linewidth}
     \input{./images/calc-int-curv-2.pdf_tex}
 \end{center}
 
@@ -6673,7 +6673,7 @@ Sea $A$ un conjunto abierto tal que:
 Sea $C$ una curva cerrada y simple contenida por $A$.
 
 \begin{center}
-    \def\svgwidth{\linewidth}
+    \def\svgwidth{0.6\linewidth}
     \input{./images/calc-series-1.pdf_tex}
 \end{center}
 
@@ -6705,7 +6705,7 @@ Sea $A$ un conjunto abierto tal que:
 Sea $C$ una curva cerrada y simple contenida por $A$.
 
 \begin{center}
-    \def\svgwidth{\linewidth}
+    \def\svgwidth{0.6\linewidth}
     \input{./images/calc-series-2.pdf_tex}
 \end{center}
 
@@ -6919,7 +6919,7 @@ El teorema de los residuos permite calcular la integral sobre una curva cerrada 
 \end{center}
 
 \begin{center}
-    \def\svgwidth{\linewidth}
+    \def\svgwidth{0.5\linewidth}
     \input{./images/calc-polos-1.pdf_tex}
 \end{center}
 
@@ -6980,7 +6980,7 @@ Sea $f(z)$ un cociente de polinomios. Se tiene un segmento de la recta real y un
 Este semicírculo cerrado contiene las $\Nth$ singularidades que $f(z) \, e^{\iu \omega z}$ presente en el semiplano superior.
 
 \begin{center}
-    \def\svgwidth{\linewidth}
+    \def\svgwidth{0.6\linewidth}
     \input{./images/calc-polos-3.pdf_tex}
 \end{center}
 
@@ -8257,7 +8257,7 @@ De manera que, por ejemplo, si la función está dada por una expresión senoida
 \end{equation*}
 
 \begin{center}
-    \def\svgwidth{\linewidth}
+    \def\svgwidth{0.8\linewidth}
     \input{./images/misc-rms.pdf_tex}
 \end{center}
 

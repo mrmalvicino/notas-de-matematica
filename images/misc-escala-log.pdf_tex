@@ -54,32 +54,24 @@
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{misc-escala-log.pdf}}%
-    \put(0.0314911,0.05465702){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.08683295\unitlength}\raggedright 0\end{minipage}}}%
-    \put(0.47523229,0.05465702){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.08683295\unitlength}\raggedright 1\end{minipage}}}%
-    \put(0.91523009,0.05465702){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.08683295\unitlength}\raggedright 2\end{minipage}}}%
-    \put(0.0314911,0.21511378){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.08683295\unitlength}\raggedright 1\end{minipage}}}%
-    \put(0.46600957,0.21511378){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.08683295\unitlength}\raggedright 10\end{minipage}}}%
-    \put(0.89920742,0.21511378){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.08683295\unitlength}\raggedright 100\end{minipage}}}%
-    \put(0.17225902,0.22555377){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 2\end{minipage}}}%
-    \put(0.24749312,0.22555377){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 3\end{minipage}}}%
-    \put(0.30361636,0.22555377){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 4\end{minipage}}}%
-    \put(0.34586807,0.22555377){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 5\end{minipage}}}%
-    \put(0.38276669,0.22555377){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 6\end{minipage}}}%
-    \put(0.41150774,0.22555377){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 7\end{minipage}}}%
-    \put(0.43727526,0.22555377){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 8\end{minipage}}}%
-    \put(0.46148974,0.22555377){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 9\end{minipage}}}%
-    \put(0.60775797,0.22622872){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 20\end{minipage}}}%
-    \put(0.68380507,0.22622872){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 30\end{minipage}}}%
-    \put(0.73990368,0.22622872){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 40\end{minipage}}}%
-    \put(0.78186516,0.22622872){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 50\end{minipage}}}%
-    \put(0.81737802,0.22622872){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 60\end{minipage}}}%
-    \put(0.84507592,0.22622872){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 70\end{minipage}}}%
-    \put(0.87341416,0.22622872){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 80\end{minipage}}}%
-    \put(0.90065921,0.22622872){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 90\end{minipage}}}%
+    \put(0.0314911,0.04934466){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.08683295\unitlength}\raggedright 0\end{minipage}}}%
+    \put(0.47523229,0.04934466){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.08683295\unitlength}\raggedright 1\end{minipage}}}%
+    \put(0.91523009,0.04934466){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.08683295\unitlength}\raggedright 2\end{minipage}}}%
+    \put(0.0314911,0.20980142){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.08683295\unitlength}\raggedright 1\end{minipage}}}%
+    \put(0.46600957,0.20980142){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.08683295\unitlength}\raggedright 10\end{minipage}}}%
+    \put(0.89920742,0.20980142){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.08683295\unitlength}\raggedright 100\end{minipage}}}%
+    \put(0.17225902,0.22024141){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 2\end{minipage}}}%
+    \put(0.30361636,0.22024141){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 4\end{minipage}}}%
+    \put(0.38276669,0.22024141){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 6\end{minipage}}}%
+    \put(0.43727526,0.22024141){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 8\end{minipage}}}%
+    \put(0.60775797,0.22091637){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 20\end{minipage}}}%
+    \put(0.73990368,0.22091637){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 40\end{minipage}}}%
+    \put(0.81737802,0.22091637){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 60\end{minipage}}}%
+    \put(0.87341416,0.22091637){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 80\end{minipage}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{misc-escala-log.pdf}}%
-    \put(0.69491983,0.0690531){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 1.5\end{minipage}}}%
-    \put(0.25226012,0.0690531){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 0.5\end{minipage}}}%
-    \put(0.94285722,0.22936824){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$m$\end{tabular}}}}%
-    \put(0.94285722,0.07817775){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n$\end{tabular}}}}%
+    \put(0.69491983,0.06374075){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 1.5\end{minipage}}}%
+    \put(0.25226012,0.06374075){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05104938\unitlength}\raggedright 0.5\end{minipage}}}%
+    \put(0.94285722,0.23600868){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$m$\end{tabular}}}}%
+    \put(0.94285722,0.0848182){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n$\end{tabular}}}}%
   \end{picture}%
 \endgroup%
